@@ -1,0 +1,10 @@
+ERIC PARAPINI
+
+This is a set of sql work that I am doing for my HINF201 Database project. 
+I wanted to have some version control on what I did (especially after that
+especially nasty accidental deletion surprise!)
+
+CONTENTS
+start.sql 				- This contains all of the table substantiations
+ICD10CAScript{0,1,2} 	- These contain all the ICD 10 CA entries
+cleanup.sql 			- This Script deletes the database (useful for developing and want to start from scratch)
