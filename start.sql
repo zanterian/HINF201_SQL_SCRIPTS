@@ -72,7 +72,7 @@ CREATE TABLE Encounter(
 );
 ----------------- Patient Visits --------------------------
 CREATE TABLE Patient_Visit(
-,	pv_id			NUMBER(10)
+	pv_id			NUMBER(10)
 ,	pv_e_id			NUMBER(2)
 ,	pv_p_id			NUMBER(10) NOT NULL
 ,	pv_d_id			NUMBER(4) NOT NULL
