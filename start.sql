@@ -42,7 +42,9 @@ CREATE TABLE Patient_Additional(
 ,	pa_add1			VARCHAR2(200)
 ,	pa_add2			VARCHAR2(200)
 ,	pa_ph			NUMBER(12)
-	
+
+,	CONSTRAINT uq_pa_p_id
+		UNIQUE(pa_p_id)	
 ,	CONSTRAINT fk_pa_p_id
 		FOREIGN KEY(pa_p_id)
 		REFERENCES Patient(p_id)
