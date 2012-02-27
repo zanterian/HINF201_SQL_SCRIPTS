@@ -66,7 +66,7 @@ CREATE TABLE ICD_10_CA(
 /* Events */
 ----------------- Encounter -------------------------------
 CREATE TABLE Encounter(
-	e_id			NUMBER(2)
+	e_id			NUMBER(3)
 ,	e_type			VARCHAR2(100) NOT NULL	
 	
 ,	CONSTRAINT pk_e_id
