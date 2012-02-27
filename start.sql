@@ -17,14 +17,15 @@ CREATE TABLE Doctor(
 ,	CONSTRAINT fk_d_employed_date
 		FOREIGN KEY(d_employed_date)
 		REFERENCES Time(t)
+		ON DELETE SET NULL
 );
 ------------------- Patient -------------------------------
 CREATE TABLE Patient(
 	p_id 			NUMBER(10)
 ,	p_first_name 	VARCHAR2(100) NOT NULL
 ,	p_middle_name	VARCHAR2(100)
-,	p_last_name	VARCHAR2(100) NOT NULL
-,	p_d_id		NUMBER(4)
+,	p_last_name		VARCHAR2(100) NOT NULL
+,	p_d_id			NUMBER(4)
 	
 ,	CONSTRAINT pk_p_id 
 		PRIMARY KEY(p_id)
@@ -32,21 +33,24 @@ CREATE TABLE Patient(
 ,	CONSTRAINT fk_p_d_id
 		FOREIGN KEY(p_d_id)
 		REFERENCES Doctor(d_id)
+		ON DELETE SET NULL
 );
 ------------- Additional Info -----------------------------
 CREATE TABLE Patient_Additional(
 	pa_p_id 		NUMBER(10)
 ,	pa_bd			DATE
-,	pa_add1		VARCHAR2(200)
-,	pa_add2		VARCHAR2(200)
+,	pa_add1			VARCHAR2(200)
+,	pa_add2			VARCHAR2(200)
 ,	pa_ph			NUMBER(12)
 	
 ,	CONSTRAINT fk_pa_p_id
 		FOREIGN KEY(pa_p_id)
 		REFERENCES Patient(p_id)
+		ON DELETE SET NULL
 ,	CONSTRAINT fk_pa_bd
 		FOREIGN KEY(pa_bd)
 		REFERENCES TIME(t)
+		ON DELETE SET NULL
 );
 /* Data Entry */
 ----------------------- ICD -------------------------------
@@ -83,17 +87,22 @@ CREATE TABLE Patient_Visit(
 ,	CONSTRAINT fk_pv_e_id
 		FOREIGN KEY(pv_e_id)
 		REFERENCES Encounter(e_id)
+		ON DELETE SET NULL
 ,	CONSTRAINT fk_pv_p_id
 		FOREIGN KEY(pv_p_id)
 		REFERENCES Patient(p_id)
+		ON DELETE SET NULL
 ,	CONSTRAINT fk_pv_d_id
 		FOREIGN KEY(pv_d_id)
 		REFERENCES Doctor(d_id)
+		ON DELETE SET NULL
 ,	CONSTRAINT fk_pv_t
 		FOREIGN KEY(pv_t)
 		REFERENCES Time(t)
+		ON DELETE SET NULL
 ,	CONSTRAINT fk_pv_icd_code
 		FOREIGN KEY(pv_icd_code)
 		REFERENCES ICD_10_CA(code)
+		ON DELETE SET NULL
 );
 
