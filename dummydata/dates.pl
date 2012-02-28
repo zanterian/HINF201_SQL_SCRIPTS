@@ -1,41 +1,37 @@
 #!/usr/bin/perl
 sub full_month{
-	my ($year, $month);
-	$year = @_[0];
-	$month = @_[1];
+	my $year = @_[0];
+	my $month = @_[1];
 	for($day=1;$day<=31;$day++){
-		
+		push @insert_statements, $SQL_string_start."$day/$month/$year".$SQL_string_end;
 	}
 }
 sub thirty_month{
-	my ($year, $month);
-	$year = @_[0];
-	$month = @_[1];
+	my $year = @_[0];
+	my $month = @_[1];
 	for($day=1;$day<=30;$day++){
-		
+		push @insert_statements, $SQL_string_start."$day/$month/$year".$SQL_string_end;
 	}
 }
 sub feb{
-	my ($year, $month);
-	$year = @_[0];
-	$month = @_[1];
+	my $year = @_[0];
+	my $month = @_[1];
 	for($day=1;$day<=28;$day++){
-		
+		push @insert_statements, $SQL_string_start."$day/$month/$year".$SQL_string_end;
 	}
 }
 sub leap_year{
-	my ($year, $month);
-	$year = @_[0];
-	$month = @_[1];
+	my $year = @_[0];
+	my $month = @_[1];
 	for($day=1;$day<=29;$day++){
-		
+		push @insert_statements, $SQL_string_start."$day/$month/$year".$SQL_string_end;
 	}
 }
 
 sub main{
-	my @insert_statements, $SQL_string_start, $SQL_string_end;
+	@insert_statements;
 	$SQL_string_start = 'INSERT INTO Time (t) VALUES (to_date(\'';
-	$SQL_string_end = '\'dd/mm/yyyy\'));';
+	$SQL_string_end = '\',\'dd/mm/yyyy\'));';
 	for($year=1972;$year<2015;$year++){
 		for($month=1;$month<=12;$month++){
 			if($month==1 || $month==3 || $month==5 || $month==7 || $month==8 || $month==10 || $month==12){
@@ -52,6 +48,9 @@ sub main{
 				}
 			}
 		}
+	}
+	foreach(@insert_statements){
+		print;print"\n";
 	}
 }
 &main;
