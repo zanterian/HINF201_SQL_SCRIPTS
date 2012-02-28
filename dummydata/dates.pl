@@ -40,10 +40,11 @@ sub main{
 			elsif($month==2 || $month==4 || $month==6 || $month==9 || $month==11){
 				&thirty_month($year,$month);
 			}
-			elsif$month==2){
+			elsif($month==2){
 				if($year % 4){
 					&leap_year($year,$month);
-				}else{
+				}
+				else{
 					&feb($year,$month);
 				}
 			}
