@@ -40,7 +40,7 @@ sub gen_d_employed_date{
 
 sub create_doctors{
 	my @init, $i, $SQL_string, $d_id, $d_name, $d_employed_date,@d_ids;
-	$SQL_string = 'INSERT INTO Doctor (d_id, d_name, d_employed_date) VALUES (';
+	$SQL_string = 'INSERT INTO Doctor (d_id, d_name, d_employed_date) VALUES ('."'";
 	
 	for($i=0;$i<$AMOUNT_OF_DOCTORS;$i++){	
 		$d_id = &gen_d_id;
