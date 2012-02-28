@@ -1,4 +1,3 @@
-OUT-OF-OFFICE FEE ITEMS: 12210, 13210, 15210, 16210, 17210, 18210, 12200, 13200, 15200, 16200, 17200, 18200, 12201, 13201, 15201, 16201, 17201, 18201, 12220, 13220, 15220, 16220, 17220, and 18220 apply to consultation, visit, complete examination and counselling services provided in either a patient’s home, at the scene of an illness or accident, in a hospital in-patient area, palliative care facility, long term care institution or in a hospital emergency department, unless the circumstance of the service is specifically covered by the definition of either fee item 00103, 00108, 00109, 00127, 00128, 13028, 00111, 00112, 00114, 00115, 00113, 00105, 00123, 13228 or one of the 01800 series.
 12110 Consultation - in office: (age 0-1) ......................................................................... 80.12
 00110 Consultation - in office: (age 2 - 49) ..................................................................... 72.82
 15310 Consultation – in office (age 50 - 59) ................................................................... 80.12
@@ -18,7 +17,6 @@ OUT-OF-OFFICE FEE ITEMS: 12210, 13210, 15210, 16210, 17210, 18210, 12200, 13200,
 16101 Complete examination - in office (age 60-69) ...................................................... 76.15
 17101 Complete examination - in office (age 70-79) ...................................................... 86.07
 18101 Complete examination - in office (age 80+) ......................................................... 99.29
-Note: Items 12101, 00101, P15301, 16101, 17101 and 18101 are subject to the daily volume payment rules described earlier in this section.
 12201 Complete examination - out of office (age 0-1) .................................................... 87.40
 13201 Complete examination - out of office (age 2-49) .................................................. 79.45
 15201 Complete examination - out of office (age 50-59) ................................................ 87.40
@@ -39,7 +37,6 @@ P13075 In office assessment of an unrelated condition(s) in association with an 
 16200 Visit - out of office (age 60-69) ............................................................................. 41.08
 17200 Visit - out of office (age 70-79) ............................................................................. 46.45
 18200 Visit - out of office (age 80+) ................................................................................ 53.60
-Note: For fee items 12200, 13200, 15200, 16200, 17200 and 18200, see notes following fee item 00108.
 P13763 Three patients ....................................................................................................... 24.65
 P13764 Four patients ......................................................................................................... 19.92
 P13765 Five patient .......................................................................................................... 17.11
@@ -65,7 +62,6 @@ P13781 Greater than 20 patients (per patient) ..................................
 16120 Individual counselling - in office (age 60-69) ........................................................ 59.62
 17120 Individual counselling - in office (age 70-79) ........................................................ 67.40
 18120 Individual counselling - in office (age 80+) ........................................................... 77.77
-Note: Items 12120, 00120, 15320, 16120, 17120 and 18120 are subject to the daily volume payment rules described earlier in this section.
 12220 Individual counselling - out of office (age 0-1) ..................................................... 68.43
 13220 Individual counselling - out of office (age 2-49) .................................................... 62.20
 15220 Individual counselling – out of office (age 50 – 59) .............................................. 68.43
@@ -83,27 +79,15 @@ P13017 Telehealth GP out-of-office Visit .......................................
 P13021 - First full hour ....................................................................................................... 84.75
 P13022 - Second hour, per ½ hour or major portion thereof ............................................. 42.41
 13015 HIV/AIDS Primary Care Management – in or out of office - per half hour or major portion thereof ............................................................................................ 82.30
-00103 Home visit (service rendered between 0800 and 2300 hours – any day)
 00109 Acute care hospital admission visit ...................................................................... 79.10
-iii) Fee item 00109 is not applicable if fee item 12101, 00101, 15301, 16101,17101, 18101, 12201, 13201, 15201, 16201, 17201, or 18201
-item 00108 or 13008. The claim must include the time of each visit and a statement of need included in a note record.
-v) For weekday daytime emergency visit, see fee item 00112. Fee items 12200, 13200, 15200, 16200, 17200, 18200 may be billed for additional evening, night time or weekend emergent hospital visits same day, same patient when the attending physician or replacement physician is specially called back as the patient’s condition has changed, requiring the physician’s attendance or due to a condition unrelated to the hospitalization. If physician is on-site and called for emergent care, fee items 00113, 00105 or 00123 are
 00108 Hospital visit .......................................................................................................... 31.31
-iii) For weekday, daytime emergency visit, see fee item 00112. Fee items 12200, 13200, 15200, 16200, 17200, 18200 may be billed for additional evening, night time or weekend emergent hospital visits same day, same patient when the attending physician or replacement physician is specially called back as the patient’s condition has changed, requiring the physician’s attendance or due to a condition unrelated to the hospitalization. If physician is on-site and called for emergent care, fee items 00113, 00105 or 00123 are billable. The claim must include the time of service and an explanation for the visit included in the note record. This note is not applicable to hospitalists.
 00128 Supportive care hospital visit ................................................................................ 26.51
-fee item 00108 or 13008. The claim must include the time of each visit and
-iii) For weekday, daytime emergency visit, see fee item 00112. Fee items 12200, 13200, 15200, 16200, 17200, 18200 may be billed for additional evening,night time or weekend emergent hospital visits same day, same patient when the attending physician or replacement physician is specially called back as the patient’s condition has changed, requiring the physician’s attendance or due to a condition unrelated to the hospitalization. If physician is on-site and called for emergent care, fee items 00113, 00105 or 00123 are billable. The claim must include the time of service and an explanation for the visit included in the note record.
 00127 Terminal care facility visit ..................................................................................... 40.27
 P13338 Community based GP, first facility visit of the day bonus, extra (active hospital privileges) (for routine, supportive or terminal care) ............................... 35.53
 13008 Community based GP: hospital visit (active hospital privileges) .......................... 40.27
-item 00108 or 13008. The claim must include the time of each visit and a
-iii) For weekday daytime emergency visit, see fee item 00112. Fee items 12200, 13200, 15200, 16200, 17200, 18200 may be billed for additional evening, night time, or weekend emergent hospital visits same day, same patient when the attending physician or replacement physician is specially called back as the patient’s condition has changed, requiring the physician’s attendance or due to a condition unrelated to the hospitalization. If physician is on-site and called for emergent care, fee items 00113, 00105 or 00123 are billable. The claim must include the time of service and an explanation for the visit included in the note record. 7-10 Medical Services Commission – December, 2011
 13028 Community based GP: supportive care hospital visit (active hospital privileges) ............................................................................................................. 34.09
-ii) Essential non-emergent additional visits to a hospitalized patient by the physician providing supportive care for diagnosis unrelated to the admission diagnosis, during one day are to be billed under fee item 00108 or 13008. The claim must include the time of each visit and a statement of need
-iii) For weekday, daytime emergency visit, see fee item 00112. Fee items 12200, 13200, 15200, 16200, 17200, 18200 may be billed for additional evening, night time, or weekend emergent hospital visits same day, same patient when the attending physician or replacement physician is specially called back as the patient’s condition has changed, requiring the physician’s attendance or due to a condition unrelated to the hospitalization. If physician is on-site and called for emergent care, fee items 00113, 00105 or 00123 are billable. The claim must include the time of service and an explanation for the visit included in the note record.
 P13339 Community based GP, first facility visit of the day bonus, extra, (courtesy/associate privileges) ............................................................................. 28.25
 13228 Community based GP: hospital visit (courtesy/associate privileges) ................... 28.25
-iii) Not payable with G14015 or any other visit fee including 00108,
 00113 Evening (between 1800 hours and 2300 hours) .................................................. 48.73
 00105 Night (between 2300 hours and 0800 hours) ....................................................... 68.55
 00123 Saturday, Sunday or Statutory Holiday ................................................................ 48.73
@@ -117,12 +101,9 @@ P13334 Community based GP, long term care facility visit - first visit of the da
 14090 Prenatal visit - complete examination ................................................................... 79.46
 14091 - subsequent examination .................................................................................... 29.79
 P14094 Post-natal office visit ............................................................................................. 29.79
-14199 Management of prolonged 2nd stage of labour, per 30 minutes or major
 14104 Delivery and post-natal care (1-14 days in-hospital) .......................................... 550.55
-iii) Not payable with assessment or visit fee or 14104, 14109 and generally 14199 (provide details if claiming for 14199 in addition).
 14108 Post-natal care after elective caesarean section(1-14 days in-hospital) ............ 113.26
 14109 Primary management of labour and attendance at delivery and post-natal care associated with emergency caesarean section (1-14 days in-hospital) .............................................................................................................. 458.58
-i) Surgical assistant is extra to fee items 14108 and 14109.
 T14545 Medical abortion ................................................................................................. 155.31
 15120 Pregnancy test, immunologic - urine .................................................................... 10.94
 00118 Attendance at caesarian section (if specifically requested by surgeon for care of baby only) ................................................................................................. 85.50
@@ -130,7 +111,6 @@ T14545 Medical abortion ........................................................
 14540 Insertion of intrauterine contraceptive device (operation only) ............................ 40.61 2
 Y13655 GP vasectomy bonus associated with bilateral vasectomy .................................. 20.20
 13194 First Surgical Assist of the Day ............................................................................. 75.76
-ii) Maximum, of one per day per physician, payable in addition to 00195,00196, 00197 or 00193.
 00195 - less than $317.00 inclusive .............................................................................. 130.08
 00196 - $317.01 to 529.00 inclusive .............................................................................. 183.39
 00197 - over $529.01 .................................................................................................... 240.16
@@ -141,7 +121,6 @@ ii) Maximum, of one per day per physician, payable in addition to 00195,00196, 0
 13660 Metatarsal bone - closed reduction (operation only) ........................................... 49.69 2
 13600 Biopsy of skin or mucosa (operation only) ........................................................... 48.88 2
 13601 Biopsy of facial area (operation only) ................................................................... 48.88 2
-Note: Punch or shave biopsies not to be charged under fee items 13600 or 13601.
 13605 Opening superficial abscess, including furuncle - operation only ........................ 41.87 2
 13611 Minor laceration or foreign body - requiring anesthesia - operation only ............. 62.46 2
 13612 Extensive laceration greater than 5 cm (maximum charge 35 cm) - operation only - per cm ......................................................................................... 12.52 2
@@ -154,15 +133,12 @@ Note: Punch or shave biopsies not to be charged under fee items 13600 or 13601.
 13633 Wedge excision of one nail (operation only) ....................................................... 59.72 2
 Y10710 In office Anoscopy ................................................................................................ 7.45
 00012 Venepuncture and dispatch of specimen to laboratory, when no other blood work performed ............................................................................................. 5.62
-ii) Where a blood specimen is taken by physician’s office and dispatched to another unassociated physician’s office or diagnostic facility, the original physcian’s office may charge 00012 only when it does not perform another laboratory procedure using blood collected at the same time. (See Preamble Clause B.6.)
-iii) When billed with another service such as an office visit, 00012 may be billed at 100%.
 15132 Candida Culture ...................................................................................................... 6.50
 P15134 Examination for pinworm ova ................................................................................. 5.76
 15136 Fungus, direct examination, KOH preparation ....................................................... 8.23
 15100 Glucose - semiquantitative (dipstick analysed visually or by reflectance meter) ..................................................................................................................... 3.53
 15137 Hemoglobin cyanmethemoglobin method and/or haematocrit. .............................. 3.07
 15000 Hemoglobin - other methods .................................................................................. 1.55
-Note: 15137 and 15000 - see Laboratory Medicine Preamble for hematology protocol.
 15110 Occult blood – feces ............................................................................................... 5.12
 15120 Pregnancy test, immunologic - urine .................................................................... 10.94
 30015 Secretion smear for eosinophils ............................................................................ 7.15
@@ -175,24 +151,14 @@ P15141 Trichomonas and/or Candida direct examination ...........................
 15142 Urinalysis - Complete diagnostic, semi-quant and micro ....................................... 5.37
 15143 White cell count only (see hematology protocol) .................................................... 6.31
 00117 Interpretation of electrocardiogram by non-internist .............................................. 9.77
-Payable when other CDM items G14051 or G14053 have been paid on the
-Payable when other CDM items G14050 or G14053 have been paid on the
-viii) Not payable if G14050 or G14051 claimed within the previous 12 months.
-viii) Payable when other CDM items G14050, G14051 or G14052 have been paid
 G14015 General Practice Facility Patient Conference: when requested by a facility to review ongoing management of the patient in that facility or to determine whether a patient in a facility with complex supportive care needs can safely return to the community or transition to a supportive care or long-term facility - per 15 minutes or greater portion thereof ........................................................................ 40.00
-xiv) Submit the new fee item G14017 through the MSP Claims System under the patient's PHN. The claim must include ICD-9 codes V15, V58, or the code for one of the major disorders.
-xv) Not billable on the same day as Facility Patient or Community Patient Conferencing Fees (G14015 or G14016).
 G14018 General Practice Urgent Telephone Conference with a Specialist Fee: Conferencing on an urgent basis (within 2 hours of request for a telephone conference) with a specialist or GP with specialty training by telephone followed by the creation, documentation, and implementation of a clinical action plan for the care of patients with acute needs; i.e. requiring attention within the next 24 hours and communication of that plan to the patient or patient's representative...................................................................................................... 40.00
-In order to encourage non-face-to-face communication with patients covered by some of the GPSC incentives, the initial 4 separate telephone/e-mail follow up fees have been simplified into a single code that will still apply to the planning incentives (Complex Care G14033, Mental Health G14043, Palliative Care G14063 & COPD G14053 which requires a COPD Action Plan). Patients covered by one or more of these incentives are eligible for 5 telephone/e-mail services over the 18 months following the billing of the qualifying incentive(s).
 G14079 GP Telephone/Email Management Fee ............................................................................ 15.00
 G14033 GP Annual Complex Care Management Fee .................................................................. 315.00
-Diagnostic codes submitted with 14033 billing must be from Table 1. If the patient has multiple co-morbidities, the submitted diagnostic code should represent the two conditions creating the most complexity of care.
 G14066 Personal Health Risk Assessment .................................................................................... 50.00
 G14010 Maternity Care Network Initiative Payment .................................................................. 2100.00
 G14004 Incentive for Full Service General Practitioner - Obstetric Delivery bonus associated with vaginal delivery and postnatal care ....................................................... 275.28
-iv) Maximum of 25 bonuses per calendar year under fee item G14004, G14005, G14008, G14009 or a combination of these items. 7-32 Medical Services Commission – December, 2011
 G14005 Incentive for Full Service General Practitioner - Obstetric delivery bonus associated with management of labour and transfer to a higher level of care facility for delivery ............................................................................................................ 114.64
-the same patient delivered in addition to G14004, G14008 or G14009 paid to
 G14009 Incentive for Full Service General Practitioner - Obstetric Delivery bonus related to attendance at delivery and postnatal care associated with emergency caesarean section ........................................................................................ 229.29
 G14008 Incentive for Full Service General Practitioner – Obstetric Delivery bonus associated with postnatal care after an elective C-section ............................................... 56.63
 G14043 GP Mental Health Planning Fee ...................................................................................... 100.00
@@ -201,7 +167,6 @@ G14045 GP Mental Health Management Fee age 50 - 59..............................
 G14046 GP Mental Health Management Fee age 60 - 69.............................................................. 59.62
 G14047 GP Mental Health Management Fee age 70 - 79.............................................................. 67.40
 G14048 GP Mental Health Management Fee age 80+ ................................................................... 77.77
-The following list of diagnosis and acceptable ICD9 codes are applicable for the Mental Health Planning and Management Fee, fee items G14043, G14044 – G14048, and G14079:
 G14063 Palliative Care planning fee ............................................................................................. 100.00
 G14021 GP with Specialty Training Telephone Advice - Initiated by a Specialist or General Practitioner, Response within 2 hours ................................................................. 60.00
 G14022 GP with Specialty Training Telephone Patient Management - Initiated by a Specialist or General Practitioner, Response in One Week .............................................. 40.00
