@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 # Decide how many doctors to create here
-$AMOUNT_OF_DOCTORS = 8;
-$AMOUNT_OF_PATIENTS = 1500;
+$AMOUNT_OF_DOCTORS = 4;
+$AMOUNT_OF_PATIENTS = 4000;
 $NAME_FILE = 'firstnames';
 $SURNAME_FILE = 'surnames';
 ########################################

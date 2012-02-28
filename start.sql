@@ -68,7 +68,8 @@ CREATE TABLE ICD_10_CA(
 CREATE TABLE Encounter(
 	e_id			NUMBER(3)
 ,	e_type			VARCHAR2(100) NOT NULL	
-	
+,	e_price			NUMBER(6,2) NOT NULL
+
 ,	CONSTRAINT pk_e_id
 		PRIMARY KEY(e_id)
 );
