@@ -41,7 +41,7 @@ sub main{
 				&thirty_month($year,$month);
 			}
 			elsif($month==2){
-				if($year % 4){
+				if(($year % 4)==0){
 					&leap_year($year,$month);
 				}
 				else{
