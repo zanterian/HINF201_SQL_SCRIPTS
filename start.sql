@@ -67,7 +67,7 @@ CREATE TABLE ICD_10_CA(
 ----------------- Encounter -------------------------------
 CREATE TABLE Encounter(
 	e_id			CHAR(6)
-,	e_type			VARCHAR2(100) NOT NULL	
+,	e_type			VARCHAR2(1000) NOT NULL	
 ,	e_price			NUMBER(6,2) NOT NULL
 
 ,	CONSTRAINT pk_e_id
