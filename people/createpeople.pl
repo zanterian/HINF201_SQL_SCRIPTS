@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 # Decide how many doctors to create here
 $AMOUNT_OF_DOCTORS = 4;
-$AMOUNT_OF_PATIENTS = 4000;
+$AMOUNT_OF_PATIENTS = 1500;
 $NAME_FILE = 'firstnames';
 $SURNAME_FILE = 'surnames';
 ########################################
@@ -88,14 +88,21 @@ sub create_patients{
 	
 }
 ###################################### PATIENT_ADDITIONAL
+sub gen_ph_number{
+	my $part1 = int(rand(899))+100;
+	my $part2 = int(rand(899))+100;
+	my $part3 = int(rand(899))+100;
+	return "$part1"."$part2"."$part3";
+}
+
 sub create_additional_info{
 	my @init;
 	my $SQL_String = 'INSERT INTO Patient_Additional (pa_p_id, pa_bd, pa_add1, pa_add2, pa_ph) VALUES (';
 	foreach(@_){
 		my $pa_p_id = $_;
 		my $pa_bd = &gen_date;
-		my $pa_ph = int(rand(899))+100 . int(rand(899))+100 . int(rand(899))+100;
-		push (@init, $SQL_String . "$pa_p_id,$pa_bd,'','',$pa_ph)";
+		my $pa_ph = &gen_ph_number;
+		push (@init, $SQL_String . "$pa_p_id,$pa_bd,'','',$pa_ph);");
 	}
 	foreach(@init){
 		print;print"\n";
