@@ -78,7 +78,7 @@ sub create_patients{
 		}
 		$p_last_name = &gen_last_name;
 		$p_d_id = &gen_p_d_id;
-		push (@init, $SQL_string."$p_id, '$p_first_name', '$p_middle_name', '$p_last_name', '$p_d_id');");
+		push (@init, $SQL_String."$p_id, '$p_first_name', '$p_middle_name', '$p_last_name', '$p_d_id');");
 	}
 	
 	foreach(@init){
