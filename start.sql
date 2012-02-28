@@ -66,7 +66,7 @@ CREATE TABLE ICD_10_CA(
 /* Events */
 ----------------- Encounter -------------------------------
 CREATE TABLE Encounter(
-	e_id			NUMBER(3)
+	e_id			CHAR(6)
 ,	e_type			VARCHAR2(100) NOT NULL	
 ,	e_price			NUMBER(6,2) NOT NULL
 
@@ -76,7 +76,7 @@ CREATE TABLE Encounter(
 ----------------- Patient Visits --------------------------
 CREATE TABLE Patient_Visit(
 	pv_id			NUMBER(10)
-,	pv_e_id			NUMBER(2)
+,	pv_e_id			CHAR(6)
 ,	pv_p_id			NUMBER(10) NOT NULL
 ,	pv_d_id			CHAR(4) NOT NULL
 ,	pv_t			DATE NOT NULL
