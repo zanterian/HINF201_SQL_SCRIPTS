@@ -1,0 +1,1761 @@
+1.
+GENERAL PRACTICE
+These listings cannot be correctly interpreted without reference to the Preamble.
+Note: Cosmetic Surgery - Physicians should be familiar with the Guidelines for Cosmetic Surgery in the Preamble prior to referring patients for surgery for alteration of appearance. Where it is clear at the time of referral that the proposed surgery for alteration of appearance would not qualify for coverage under MSP, the consultation also would not be covered.
+Note: Daily Volume Payment Rules Applying to Designated Office Codes
+(i) The codes to which these rules apply are as follows:
+Office visits: 12100, 00100, 15300, 16100, 17100, 18100
+Office counselling: 12120, 00120, 15320, 16120, 17120, 18120
+Office complete examinations: 12101, 00101, 15301, 16101, 17101, 18101
+(ii) The total of all billings under the codes listed in i) that are accepted for payment by MSP will be calculated for each practitioner for each calendar day. When such a daily total exceeds 50 the practitioner’s payment on these codes for that day will be discounted. Moreover, when a daily total exceeds 65, a further payment discount will be made.
+Daily Ranges Discount Rate Payment Rate
+(for an individual practitioner
+for any single calendar day)
+0 to 50 0% 100%
+51 to 65 50% 50%
+66 and greater 100% 0%
+(iii) Payment discounts will not be applied to services rendered in communities that are/were receiving NIA premiums as of December 15, 2002.
+(iv) Payment discounts will not be applied to services designated by the physician as being the responsibility of ICBC, (designate by checking the MVA indicator on the claim), or services that are the responsibility of WCB.
+(v) Services will be assessed and payment/discounts will be applied to services in the order in which they are received and accepted for payment by MSP.
+Billing For In-Office and Out-of-Office Visits
+The following definitions must be adhered to when preparing MSP billings for consultation, complete examination, office visit and individual counselling services (both in and out-of-office listing).
+IN-OFFICE FEE ITEMS: 12110, 00110, 15310, 16110, 17110, 18110, 12100, 00100, 15300, 16100, 17100, 18100, 12101, 00101, 15301, 16101, 17101, 18101, 12120, 00120, 15320,16120, 17120, and 18120 apply to consultation, visit, complete examination and counselling services provided in offices, clinics, outpatient areas of hospitals, diagnostic treatment centers and similar locations.
+Medical Services Commission – December, 2011 7-1
+OUT-OF-OFFICE FEE ITEMS: 12210, 13210, 15210, 16210, 17210, 18210, 12200, 13200, 15200, 16200, 17200, 18200, 12201, 13201, 15201, 16201, 17201, 18201, 12220, 13220, 15220, 16220, 17220, and 18220 apply to consultation, visit, complete examination and counselling services provided in either a patient’s home, at the scene of an illness or accident, in a hospital in-patient area, palliative care facility, long term care institution or in a hospital emergency department, unless the circumstance of the service is specifically covered by the definition of either fee item 00103, 00108, 00109, 00127, 00128, 13028, 00111, 00112, 00114, 00115, 00113, 00105, 00123, 13228 or one of the 01800 series.
+WorkSafeBC and ICBC Services
+In cases where a visit or procedure was occasioned by more than one condition, the dominant
+purpose must be related to an MVA or WorkSafeBC issue to code it as such. If medically
+necessary, an assessment of an unrelated condition can also be billed to MSP by General
+Practitioners.
+7-2 Medical Services Commission – December, 2011
+Anes.
+$ Level
+Consultations
+GP Consultations apply when a medical practitioner (GP or Specialist), or a health
+care practitioner (midwife, for obstetrical or neonatal related consultations; nurse practitioner; oral/dental surgeon, for diseases of mastication), in the light of his/her professional knowledge of the patient and because of the complexity, obscurity or seriousness of the case, requests the opinion of a general practitioner competent
+to give advice in this field. A consultation must not be claimed unless it was
+specifically requested by the attending practitioner. The service consists of the
+initial services of GP consultant, including a history and physical examination,
+review of x-rays and laboratory findings, necessary to enable him/her to prepare and
+render a written report, including his/her findings, opinions and recommendations,
+to the referring practitioner. Consultations will not apply if the referred patient has
+been attended by the consulting general practitioner or another general practitioner
+in the same group during the preceding six months
+12110 Consultation - in office: (age 0-1) ......................................................................... 80.12
+00110 Consultation - in office: (age 2 - 49) ..................................................................... 72.82
+15310 Consultation – in office (age 50 - 59) ................................................................... 80.12
+16110 Consultation - in office: (age 60 - 69) ................................................................... 83.77
+17110 Consultation - in office: (age 70 - 79) ................................................................... 94.67
+18110 Consultation - in office: (age 80+) ...................................................................... 109.23
+00116 Special in-hospital consultation .......................................................................... 154.33
+Notes:
+i) This item applies to consultations on in-hospital patients of an acute or extended care (or when the patient is in the ER with a complex problem as described below and a decision has been made to admit), who are referred to a general practitioner by a certified specialist for advice about and/or the continuing care of complex problems for which the management is complicated and requires extra consideration. Examples of such problems include (but are not restricted to) the assessment of terminal illness, the planning of activation/rehabilitation programs and the management of patients with AIDS.
+ii) This item is not applicable to the transfer of care in uncomplicated cases. It also will not apply if the referred patient has been attended by the consulting general practitioner or another general practitioner in the same group during the preceding six months.
+12210 Consultation – out of office (age 0 – 1) ................................................................ 96.15
+13210 Consultation – out of office (age 2 - 49) ............................................................... 87.39
+15210 Consultation – out of office (age 50 - 59) ............................................................. 96.15
+16210 Consultation – out of office (age 60 - 69) ........................................................... 100.51
+17210 Consultation – out of office (age 70 - 79) ........................................................... 113.62
+18210 Consultation – out of office (age 80+) ................................................................ 131.09
+Complete Examinations
+For any condition seen requiring a complete physical examination and detailed history (to include tonometry and biomicroscopy when performed).
+Notes:
+i) A complete physical examination shall include a complete detailed history and detailed physical examination of all parts and systems with special Medical Services Commission – December, 2011 7-3
+Anes.
+$ Level
+attention to local examination where clinically indicated, adequate recording of findings and if necessary, discussion with patient. The above should
+include complaints, history of present and past illness, family history, personal history, functional inquiry, physical examination, differential diagnosis, and provisional diagnosis.
+ii) Routine or periodic physical examination (check-up) is not a benefit under MSP. This includes any associated diagnostic or laboratory procedures unless significant pathology is found. Advise laboratory of patient’s responsibility for payment.
+iii) Complete examination fee codes are not to be charged for in-hospital admission examinations. Fee code 00109 may apply in this circumstance. See Preamble and listing restrictions.
+12101 Complete examination - in office (age 0-1) .......................................................... 72.83
+00101 Complete examination - in office (age 2-49) ........................................................ 66.20
+15301 Complete examination – in office (age 50 – 59) ................................................... 72.83
+16101 Complete examination - in office (age 60-69) ...................................................... 76.15
+17101 Complete examination - in office (age 70-79) ...................................................... 86.07
+18101 Complete examination - in office (age 80+) ......................................................... 99.29
+Note: Items 12101, 00101, P15301, 16101, 17101 and 18101 are subject to the daily volume payment rules described earlier in this section.
+12201 Complete examination - out of office (age 0-1) .................................................... 87.40
+13201 Complete examination - out of office (age 2-49) .................................................. 79.45
+15201 Complete examination - out of office (age 50-59) ................................................ 87.40
+16201 Complete examination - out of office (age 60-69) ................................................ 91.38
+17201 Complete examination - out of office (age 70-79) .............................................. 103.27
+18201 Complete examination - out of office (age 80+) ................................................. 119.16
+Visits
+For any condition(s) requiring partial or regional examination and history - includes both initial and subsequent examination for same or related condition(s).
+Note: Visit fee codes are not to be charged for in-hospital admission examinations. Fee code 00109 may apply in this circumstance. See Preamble and listing restrictions.
+12100 Visit - in office (age 0-1) ........................................................................................ 32.75
+00100 Visit - in office (age 2-49) ...................................................................................... 29.79
+15300 Visit – in office (age 50-59) ................................................................................... 32.75
+16100 Visit - in office (age 60-69) .................................................................................... 34.23
+17100 Visit - in office (age 70-79) .................................................................................... 38.70
+18100 Visit - in office (age 80+) ....................................................................................... 44.67
+Note: Fee items 12100, 00100,15300, 16100, 17100, and 18100 are subject to the daily volume payment rules described earlier in this section.
+7-4 Medical Services Commission – December, 2011
+Anes.
+$ Level
+P13070 In office assessment of an unrelated condition(s) in association with a WorkSafe BC service ........................................................................................... 15.75
+Notes:
+i) Paid only when services are provided for an unrelated illness occurring in
+conjunction with a WorkSafeBC insured service.
+ii) Unrelated service must be initiated by patient.
+iii) The unrelated condition(s) must justify a stand-alone visit.
+iv) Only paid once per patient per day, per insurer, and includes all other
+unrelated problems.
+v) Not paid if a procedure for the same or related condition is paid for same
+patient on same day, same practitioner.
+vi) The visit for each payer must be fully and adequately documented in chart.
+vii) Paid only to General Practitioners.
+P13075 In office assessment of an unrelated condition(s) in association with an ICBC service ......................................................................................................... 15.75
+Notes:
+i) Paid only when services are provided for an unrelated illness occurring in conjunction with an ICBC insured service.
+ii) Unrelated service must be initiated by patient.
+iii) The unrelated condition(s) must justify a stand-alone visit.
+iv) Only paid once per patient per day, per insurer, and includes all other
+unrelated problems.
+v) Not paid if a procedure for the same or related condition is paid for same
+patient on same day, same practitioner.
+vi) The visit for each payer must be fully and adequately documented in chart.
+vii) Paid only to General Practitioners.
+12200 Visit - out of office (age 0-1) ................................................................................. 39.32
+13200 Visit - out of office (age 2-49) ............................................................................... 35.73
+15200 Visit – out of office (age 50-59) ............................................................................. 39.32
+16200 Visit - out of office (age 60-69) ............................................................................. 41.08
+17200 Visit - out of office (age 70-79) ............................................................................. 46.45
+18200 Visit - out of office (age 80+) ................................................................................ 53.60
+Note: For fee items 12200, 13200, 15200, 16200, 17200 and 18200, see notes following fee item 00108.
+General Practice Group Medical Visit
+A Group Medical Visit provides 1:1 patient care in a group setting. Group Medical Visits are an effective way of leveraging existing resources; simultaneously improving quality of care and health outcomes, increasing patient access to care and reducing costs. Group Medical Visits can offer patients an additional health care choice, provide them support from other patients and improve the patient-physician interaction. Physicians can also benefit by reducing the need to repeat the same information many times and free up time for other patients. Appropriate patient privacy is always maintained and typically these benefits result in improved satisfaction for both patients and physicians.
+The Group Medical Visit is not appropriate for advice relating to a single patient. It applies only when all members of the group are receiving medically required treatment (i.e. each member of the group is a patient). The GP Group Medical Visits are not intended for activities related to attempting to persuade a patient to alter diet or other lifestyle behavioural patterns other than in the context of the individual medical condition
+Medical Services Commission – December, 2011 7-5
+Anes.
+$ Level
+Fee per patient, per 1/2 hour or major portion thereof:
+P13763 Three patients ....................................................................................................... 24.65
+P13764 Four patients ......................................................................................................... 19.92
+P13765 Five patient .......................................................................................................... 17.11
+P13766 Six patients .......................................................................................................... 15.23
+P13767 Seven patients ...................................................................................................... 13.89
+P13768 Eight patients ....................................................................................................... 12.88
+P13769 Nine patients ........................................................................................................ 12.09
+P13770 Ten patients ......................................................................................................... 11.45
+P13771 Eleven patients ..................................................................................................... 10.03
+P13772 Twelve patients ....................................................................................................... 9.43
+P13773 Thirteen patients ..................................................................................................... 8.74
+P13774 Fourteen patients .................................................................................................... 8.58
+P13775 Fifteen patients ....................................................................................................... 8.23
+P13776 Sixteen patients ...................................................................................................... 7.98
+P13777 Seventeen patients ................................................................................................. 7.65
+P13778 Eighteen patients .................................................................................................... 7.48
+P13779 Nineteen patients .................................................................................................... 7.22
+P13780 Twenty patients ...................................................................................................... 7.05
+P13781 Greater than 20 patients (per patient) .................................................................... 6.79
+Notes:
+i) A separate claim must be submitted for each patient.
+ii) When a patient attends a group visit, it should be noted in his or her chart,
+along with the start and end times.
+iii) A separate file should be maintained which documents all participants in each
+group visit.
+iv) Claim must include start and end times.
+v) Not payable to physicians working under salary, service contract or sessional
+arrangements, and whose duties would otherwise include provision of care.
+vi) A minimum of a full thirty (30) minute period and a maximum of
+ninety (90) minutes may be claimed per patient per day.
+vii) Where group medical visits with a patient extend beyond two and
+one-half (2 ½) hours in any seven (7) day period, a note-record is required.
+viii) Service is not payable with other consultation, visit or complete examination
+services, for the same patient, on the same day.
+ix) Where two physicians are involved, the group should be divided for claims
+purposes, with each physician claiming the appropriate rate per patient for
+the reduced group size. Each claim should indicate “Group medical visit” and
+also identify the other physician.
+Counselling - Individual
+F
+or a prolonged visit for counselling (minimum time per visit – 20 minutes)
+Note: MSP will pay for up to four (4) such visits per patient per year (see Preamble B. 4.c.)
+12120 Individual counselling - in office (age 0-1) ............................................................ 57.03
+00120 Individual counselling - in office (age 2-49) .......................................................... 51.84
+15320 Individual counselling – in office (age 50-59) ....................................................... 57.03
+16120 Individual counselling - in office (age 60-69) ........................................................ 59.62
+17120 Individual counselling - in office (age 70-79) ........................................................ 67.40
+18120 Individual counselling - in office (age 80+) ........................................................... 77.77
+Note: Items 12120, 00120, 15320, 16120, 17120 and 18120 are subject to the daily volume payment rules described earlier in this section.
+7-6 Medical Services Commission – December, 2011
+Anes.
+$ Level
+12220 Individual counselling - out of office (age 0-1) ..................................................... 68.43
+13220 Individual counselling - out of office (age 2-49) .................................................... 62.20
+15220 Individual counselling – out of office (age 50 – 59) .............................................. 68.43
+16220 Individual counselling - out of office (age 60-69) .................................................. 71.55
+17220 Individual counselling - out of office (age 70-79) .................................................. 80.85
+18220 Individual counselling - out of office (age 80+) ..................................................... 93.30
+Counselling - Group
+For groups of two or more patients.
+00121 - first full hour ........................................................................................................ 84.75
+00122 - second hour, per 1/2 hour or major portion thereof ........................................... 42.41
+Telehealth Service with Direct Interactive Video Link with the Patient
+These fee items cannot be interpreted without reference to the Preamble B. 1.b.
+P13036 Telehealth GP in-office Consultation .................................................................... 80.37
+P13037 Telehealth GP in-office Visit ................................................................................. 33.56
+P13038 Telehealth GP in-office Individual counselling for a prolonged visit for
+counselling (minimum time per visit – 20 minutes) ............................................... 57.42
+Note: MSP will pay for up to four (4) such visits per patient per year
+(see Preamble B. 4.c.)
+Telehealth GP in-office Group Counselling
+For groups of two or more patients
+P13041 - First full hour ....................................................................................................... 84.75
+P13042 - Second hour, per ½ hour or major portion thereof ............................................. 42.41
+P13016 Telehealth GP out-of-office Consultation ........................................................... 105.65
+P13017 Telehealth GP out-of-office Visit ........................................................................... 40.31
+P13018 Telehealth GP out-of-office Individual counselling for a prolonged visit for
+counselling (minimum time per visit – 20 minutes) ............................................... 72.99
+Note: MSP will pay for up to four (4) such visits per patient per year
+(see Preamble B. 4.c.)
+Telehealth GP out-of-office Group Counselling
+For groups of two or more patients
+P13021 - First full hour ....................................................................................................... 84.75
+P13022 - Second hour, per ½ hour or major portion thereof ............................................. 42.41
+13020 Telehealth General Practitioner Assistant – Physical Assessment as requested by receiving specialist:
+- for each 15 minutes or major portion thereof ..................................................... 29.79
+Notes:
+i) Applicable only if general practitioner is required at the referring end to assist with essential physical assessment, without which the specialist service would be ineffective.
+ii) Applies only to period spent during consultation with specialist.
+Medical Services Commission – December, 2011 7-7
+Anes.
+$ Level
+Miscellaneous Visits
+13015 HIV/AIDS Primary Care Management – in or out of office - per half hour or major portion thereof ............................................................................................ 82.30
+Notes:
+i) When performed in conjunction with visit, counselling, consultations or complete examinations, only the larger fee is billable.
+ii) Only applicable to services submitted under diagnostic codes 042, 043 and 044.
+iii) Services that are less than 15 minutes duration should be billed under the appropriate visit fee item.
+Home Visits
+00103 Home visit (service rendered between 0800 and 2300 hours – any day)
+- any day ............................................................................................................. 108.95
+Note: Additional patients seen during same house call are to be billed under the applicable out of office visit fee items (12200, 13200, 15200, 16200, 17200, 18200)
+GP Facility Visit Fees
+Please read the entire facility listings as some visits are restricted to community based GP’s with
+active or associate/courtesy hospital privileges.
+00109 Acute care hospital admission visit ...................................................................... 79.10
+Notes:
+i) This item applies when a patient is admitted to an acute care hospital for medical care rendered by a GP with active hospital privileges. It is not applicable when a patient has been admitted for surgery or for “continuing
+care" by a certified specialist
+ii) This item is intended to apply in lieu of fee item 00108, 13008 on the first in-patient day, for that patient.
+iii) Fee item 00109 is not applicable if fee item 12101, 00101, 15301, 16101,17101, 18101, 12201, 13201, 15201, 16201, 17201, or 18201
+has been billed by the same physician within the week preceding the patient's admission.
+iv) Essential non-emergent additional visits to a hospitalized patient by the attending or replacement physician during one day are to be billed under fee
+item 00108 or 13008. The claim must include the time of each visit and a statement of need included in a note record.
+v) For weekday daytime emergency visit, see fee item 00112. Fee items 12200, 13200, 15200, 16200, 17200, 18200 may be billed for additional evening, night time or weekend emergent hospital visits same day, same patient when the attending physician or replacement physician is specially called back as the patient’s condition has changed, requiring the physician’s attendance or due to a condition unrelated to the hospitalization. If physician is on-site and called for emergent care, fee items 00113, 00105 or 00123 are
+billable. The claim must include the time of service and an explanation for the visit included in the note record.
+7-8 Medical Services Commission – December, 2011
+Anes.
+$ Level
+00108 Hospital visit .......................................................................................................... 31.31
+Notes:
+i) Billable by GP’s with active hospital privileges for daily attendance on the patients they have most responsibility for.
+ii) Essential emergent or non-emergent additional visits to a hospitalized patient by the attending or replacement physician during one day are to be billed under fee item 00108. The claim must include the time of each visit and a statement of need included in a note record.
+iii) For weekday, daytime emergency visit, see fee item 00112. Fee items 12200, 13200, 15200, 16200, 17200, 18200 may be billed for additional evening, night time or weekend emergent hospital visits same day, same patient when the attending physician or replacement physician is specially called back as the patient’s condition has changed, requiring the physician’s attendance or due to a condition unrelated to the hospitalization. If physician is on-site and called for emergent care, fee items 00113, 00105 or 00123 are billable. The claim must include the time of service and an explanation for the visit included in the note record. This note is not applicable to hospitalists.
+00128 Supportive care hospital visit ................................................................................ 26.51
+Notes:
+i) Referring physician may charge one supportive care hospital visit for each day hospitalized during the first ten days of hospitalization and thereafter one visit for every seven days hospitalized {Preamble B.4.e.v)}.
+ii) Essential non-emergent additional visits to a hospitalized patient by
+the attending or replacement physician during one day are to be billed under
+fee item 00108 or 13008. The claim must include the time of each visit and
+statement of need included in a note record.
+iii) For weekday, daytime emergency visit, see fee item 00112. Fee items 12200, 13200, 15200, 16200, 17200, 18200 may be billed for additional evening,night time or weekend emergent hospital visits same day, same patient when the attending physician or replacement physician is specially called back as the patient’s condition has changed, requiring the physician’s attendance or due to a condition unrelated to the hospitalization. If physician is on-site and called for emergent care, fee items 00113, 00105 or 00123 are billable. The claim must include the time of service and an explanation for the visit included in the note record.
+00127 Terminal care facility visit ..................................................................................... 40.27
+Notes:
+i) This item is applicable to the visits for palliative care rendered to terminally ill
+patients suffering from malignant disease or AIDS or end-stage respiratory,
+cardiac, liver and renal disease and end-stage dementia with life expectancy
+of up to 6 months and the focus of care is palliative rather than treatment
+aimed at cure. Billings for this item will only apply where there is no
+aggressive treatment of the underlying disease process and care is directed
+to maintaining the comfort of the patient until death occurs.
+ii) This item may be billed for necessary visits rendered for a period not to exceed 180 days prior to death and is applicable to patients in an acute care hospital, nursing home or terminal care facility, whether or not the patient is
+in a palliative care unit. Under extenuating circumstances, for visits that exceed 180 days, a note record must be submitted.
+iii) Terminal care visit fees do not apply when unexpected death occurs after
+prolonged hospitalization for another diagnosis unrelated to the cause of
+death.
+iv) The chemotherapy listings (33581, 33582, 33583, 00578, 00579, and
+00580) may not be billed when terminal care facility visit fees are being
+billed. Medical Services Commission – December, 2011 7-9
+Anes.
+$ Level
+v) Essential non-emergent additional terminal care facility visits to a hospitalized patient by the attending or replacement physician during one day are to be billed under fee item 00127. The claim must include the time of each visit and a statement of need included in a note record.
+vi) For weekday daytime emergency visit, see fee item 00112. Fee items
+12200, 13200, 15200, 16200, 17200, 18200 may be billed for additional
+evening, night time, or weekend emergent terminal care facility visits same
+day, same patient when the attending physician or replacement physician is
+specially called back as the patient’s condition has changed, requiring the
+physician’s attendance or due to a condition unrelated to the hospitalization.
+If physician is on-site and called for emergent care, fee items 00113, 00105
+or 00123 are billable. The claim must include the time of service and an
+explanation for the visit included in the note record.
+Community Based GP Hospital Visits
+T
+he following eligibility rules apply to all community based GP hospital visit fees.
+Physician Eligibility:
+•
+Payable only to the GP or practice group that accepts the role of being Most Responsible Physician (MRP) for the longitudinal coordinated care of his/her/their patient.
+•
+Not payable to physicians who have been paid for any specialty consultation fee in the previous 12 months.
+•
+Not payable to physicians who are employed by, or who are under contract, whose duties would otherwise include provision of this care.
+•
+Not payable to physicians working under salary, service contract or sessional arrangements and whose duties would otherwise include provision of this care.
+Community Based GP with Active Hospital Privileges
+Active privileges signify the physician has the authority to write orders, whereas courtesy/associate privileges permit the GP to write progress notes in charts, but not orders.
+P13338 Community based GP, first facility visit of the day bonus, extra (active hospital privileges) (for routine, supportive or terminal care) ............................... 35.53
+Notes:
+i) Paid only if 13008, 13028, 00127 paid the same day.
+ii) Limit of one payable for the same physician, same day, regardless of the
+number of facilities attended.
+iii) Not payable same day for same physician as P13339.
+13008 Community based GP: hospital visit (active hospital privileges) .......................... 40.27
+Notes:
+i) Additional visits are not payable on same day to same physician for the same patient, except as set out in the notes ii) and iii).
+ii) Essential non-emergent additional visits to a hospitalized patient by the
+attending or replacement physician during one day are to be billed under fee
+item 00108 or 13008. The claim must include the time of each visit and a
+statement of need included a note record.
+iii) For weekday daytime emergency visit, see fee item 00112. Fee items 12200, 13200, 15200, 16200, 17200, 18200 may be billed for additional evening, night time, or weekend emergent hospital visits same day, same patient when the attending physician or replacement physician is specially called back as the patient’s condition has changed, requiring the physician’s attendance or due to a condition unrelated to the hospitalization. If physician is on-site and called for emergent care, fee items 00113, 00105 or 00123 are billable. The claim must include the time of service and an explanation for the visit included in the note record. 7-10 Medical Services Commission – December, 2011
+Anes.
+$ Level
+13028 Community based GP: supportive care hospital visit (active hospital privileges) ............................................................................................................. 34.09
+Notes:
+i) Referring physician may charge one hospital visit for each day hospitalized during the first ten days of hospitalization and thereafter one visit for every seven days hospitalized {Preamble B.4.e.v)}.
+ii) Essential non-emergent additional visits to a hospitalized patient by the physician providing supportive care for diagnosis unrelated to the admission diagnosis, during one day are to be billed under fee item 00108 or 13008. The claim must include the time of each visit and a statement of need
+included in a note record.
+iii) For weekday, daytime emergency visit, see fee item 00112. Fee items 12200, 13200, 15200, 16200, 17200, 18200 may be billed for additional evening, night time, or weekend emergent hospital visits same day, same patient when the attending physician or replacement physician is specially called back as the patient’s condition has changed, requiring the physician’s attendance or due to a condition unrelated to the hospitalization. If physician is on-site and called for emergent care, fee items 00113, 00105 or 00123 are billable. The claim must include the time of service and an explanation for the visit included in the note record.
+Community Based GP with Courtesy or Associate Hospital Privileges
+P13339 Community based GP, first facility visit of the day bonus, extra, (courtesy/associate privileges) ............................................................................. 28.25
+Notes:
+i) Only payable if 13228 paid the same day.
+ii) Limit of one payable for the same physician, same day, regardless of the
+number of facilities attended.
+iii) Not payable same day for same physician as P13338.
+13228 Community based GP: hospital visit (courtesy/associate privileges) ................... 28.25
+Notes:
+i) Payable once per calendar week per patient up to the first four weeks.
+Thereafter, payable once per two weeks up to a maximum of 90 days. For
+visits over 90 days please submit note record.
+ii) Payable for patients in acute, sub-acute care or palliative care.
+iii) Not payable with G14015 or any other visit fee including 00108,
+13008, 00109, 00114, 00115, 00113, 00105, 00123, 00127,
+12200, 13200, 15200, 16200, 17200, 18200, 12201, 13201,
+15201, 16201, 17201, 18201, 00128, 13028, 13015,
+12220, 13220, 15220, 16220, 17220, 18220, 00121, 00122, 12210,
+13210, 15210, 16210, 17210, 18210, 00116, 00112, 00111.
+iv) If physician is on-site and called for emergent care, fee items 00113, 00105
+or 00123 are billable.
+v) A written record of the visit must appear in either patient’s hospital or office
+chart.
+vi) If a hospitalist is providing GP care to the patient, the community based GP
+with courtesy or associate hospital privileges may bill 13228.
+Medical Services Commission – December, 2011 7-11
+Anes.
+$ Level
+On-call On-site Hospital Visits
+These listings should be used when a physician, located in the hospital or Emergency Department, is called to see a patient in either the Emergency Department or elsewhere in the hospital.
+00113 Evening (between 1800 hours and 2300 hours) .................................................. 48.73
+00105 Night (between 2300 hours and 0800 hours) ....................................................... 68.55
+00123 Saturday, Sunday or Statutory Holiday ................................................................ 48.73
+Note: For services rendered between 0800 hours and 1800 hours weekdays bill appropriate visit or procedure fee. Out-of-office hours premiums are not chargeable in addition to emergency department fees. Claim must state time call placed.
+Long-Term Care Facility Visits
+00114 One or multiple patients, per patient .................................................................... 32.22
+P13334 Community based GP, long term care facility visit - first visit of the day bonus, extra .......................................................................................................... 32.22
+Notes:
+i) Paid only if 00114 paid the same day.
+ii) Limit of one payable for the same physician, same day, regardless of the
+number of long term care facilities attended.
+00115 Nursing home visit – one patient, when specially called and patient seen between hours of 0800 hrs and 2300 hrs – any day .......................................... 108.95
+{See Preamble Clause B.4.e.vii), for long-stay patients}.
+Emergency Visits
+00112 Emergency visit (call placed between hours of 0800 and 1800 hours) – weekdays ............................................................................................................ 108.95
+Notes:
+i) This item to be charged only when one must immediately leave home, office, or hospital to render immediate care. Call to hospital emergency department while at hospital, bill under appropriate on-call on-site hospital visit listings or procedure.
+ii) Claim must state time service rendered.
+The following are examples of situations explaining when it would be appropriate to bill under fee item 00112:
+Example 1: Physician is called by patient with non-urgent condition. Physician agrees to meet the patient later in the day at the hospital.
+Fee item 00112 is not applicable, as the physician was not required to immediately leave home, office or hospital to render immediate care.
+Example 2: Physician is called to assess a patient at the hospital. Due to the urgent nature of the patient’s condition, the physician must leave his/her office immediately.
+Fee item 00112 is applicable, as all the criteria are met.
+7-12 Medical Services Commission – December, 2011
+Anes.
+$ Level
+Example 3: Physician is visiting patients at the hospital during the daytime. She/he is called to attend a patient in the emergency ward. Due to the urgent nature of the patient’s condition, the physician must attend the patient immediately.
+Fee item 00112 is not applicable, as the physician remained at the same site.
+Example 4: The physician is called at home regarding a patient. She/he asks the patient to meet him/her at the office later in the day for assessment.
+Fee item 00112 is not applicable, as the physician was not required to immediately leave home, office or hospital to render immediate care.
+00111 An emergency home (or scene of accident) visit for an acutely ill or injured patient immediately followed by a trip to hospital to arrange for emergency admission and to include immediate associated hospital visit ........ 110.92
+Telephone Advice
+13000 Telephone advice to a Community Health Representative in First Nation’s Communities ......................................................................................................... 14.88
+Notes:
+i) Applicable only to medically required calls to physician for medical advice initiated by and provided to Community Health Representative.
+ii) Not billable if a Community Health Nurse is available in the Community.
+13005 Advice about a patient in Community Care .......................................................... 14.88
+Notes:
+i) This fee may be claimed for advice by telephone, fax or in written form about a patient in community care in response to an enquiry initiated by an allied health care worker specifically assigned to the care of the patient.
+ii) Community Care comprises Residential, Intermediate and Extended care and includes patients receiving Home Nursing care, Home support or Palliative care at home.
+iii) Allied health care workers are defined as: home care coordinators, nurses, (registered, licensed practical, public health, and psychiatric), psychologists, mental health workers, physiotherapists, occupational therapists, respiratory therapists, social workers, ambulance paramedics, and pharmacists (not intended for prescription renewal).
+iv) Claims should be submitted under the personal health number of the patient and should indicate the time of day the request for advice was received.
+v) Dates of services under this item should be documented in the patient’s record together with the name and position of the enquiring allied health care worker and
+a brief notation of the advice given. Alternatively the original of a fax or a copy of written advice will suffice to document these services.
+vi) This fee may not be claimed in addition to visits or other services provided on the same day by the same physician for the same patient.
+vii) This fee may be billed to a maximum of one per patient per physician per day.
+viii) This fee may not be claimed for advice in response to enquiries from a patient or their family.
+ix) This fee may not be claimed by physicians who are on third party call to a facility or applicable to calls about doctor of the day patients to a physician who is on-call for doctor of the day at the time of the request for advice. Similarly the fee does not cover advice provided by doctors who are on-site, on-duty in an emergency department, who are being paid at the time on a sessional basis, or who are working at the time as hospitalists.
+x) This fee item is not billable by physicians receiving non fee-for-service compensation to provide coverage at continuing care facilities during normal business hours. Medical Services Commission – December, 2011 7-13
+Anes.
+$ Level
+Pregnancy and Confinement
+14090 Prenatal visit - complete examination ................................................................... 79.46
+14091 - subsequent examination .................................................................................... 29.79
+Notes:
+i) Uncomplicated pre-natal care usually includes a complete examination followed by monthly visits to 32 weeks, then visits every second week to 36 weeks, and weekly visits thereafter to delivery. In complicated pregnancies, charges for additional visits will be given independent consideration upon explanation.
+ii) Where a patient transfers her total on-going uncomplicated pre-natal care to another physician, the second physician also may charge a complete examination (item 14090) and subsequent examinations, as rendered. To facilitate payment the reason for transfer should be stated with the claim.
+Temporary substitution of one physician for another during days off, annual vacation, etcetera, should not be considered as a patient transfer.
+iii) Other than during pre-natal or post-natal visits, it is proper to charge separately for all visits (including counselling) for conditions unrelated to the pregnancy, under appropriate fee items listed elsewhere. The reason for the charges should be clearly spelled out when submitting claim.
+iv) Other than procedures, services for the care of unrelated conditions, during a
+pre-natal or post-natal visit are included in the pre-natal (14091) or post-natal
+visit fee (P14094), and are not to be billed under fee item 04007.
+Procedures rendered for unrelated conditions are chargeable as set out in
+Preamble B.12.(d).
+P14094 Post-natal office visit ............................................................................................. 29.79
+Notes
+i) P14094 may be billed in the six weeks following delivery (vaginal or Caesarean Section)
+ii) Not payable to physician performing Caesarean Section.
+14199 Management of prolonged 2nd stage of labour, per 30 minutes or major
+portion thereof. ..................................................................................................... 79.96
+Notes:
+i) This item is billable in addition to the delivery fee only when the second stage of labour exceeds two hours in length.
+ii) Not payable with 04000, 04014, 04017, or 04018.
+iii) Timing ends when constant personal attendance ends, or at the time of delivery. 7-14 Medical Services Commission – December, 2011
+Anes.
+$ Level
+14104 Delivery and post-natal care (1-14 days in-hospital) .......................................... 550.55
+Notes:
+i) Care of newborn in hospital (see item 00119).
+ii) Repair of cervix is not included in fee item14104. Charge 50% of listed fee when done on same day as delivery.
+iii) When medically necessary additional post-partum office visit(s) are payable under fee item P14094.
+14105 Management of labour and transfer to higher level of care facility
+for delivery .......................................................................................................... 229.28
+Notes:
+i) This fee includes all usual hospital care associated with the confinement and provided by the referring physician.
+ii) May be claimed by the referring physician when the referring physician intended to conduct the delivery providing the following conditions are met:
+a) The referring physician attended the patient during active labour and provided assessment of the progress of labour, both initial and on- going.
+b) Active labour is defined as:”regular painful contractions, occurring at least once in five minutes, lasting at least 40 seconds, accompanied by either spontaneous rupture of the membranes, or full cervical effacement and dilatation of at least two centimeters.”
+c) There is a documented complication warranting the referral such as foetal distress or dysfunctional labour (failure to progress).
+d) Where the referring physician must transfer the patient to another facility.
+iii) Not payable with assessment or visit fee or 14104, 14109 and generally 14199 (provide details if claiming for 14199 in addition).
+iv ) OOOHP Continuing Care Surcharges do not apply to maternity services in
+the first stage of labour only.
+v) When medically necessary additional post-partum office visit (s) are payable
+under fee item P14094.
+14108 Post-natal care after elective caesarean section(1-14 days in-hospital) ............ 113.26
+Note: When medically necessary additional post-partum office visit(s) are payable under fee item P14094.
+14109 Primary management of labour and attendance at delivery and post-natal care associated with emergency caesarean section (1-14 days in-hospital) .............................................................................................................. 458.58
+Notes:
+i) Surgical assistant is extra to fee items 14108 and 14109.
+ii) When medically necessary additional post-partum office visit(s) are payable under fee item P14094.
+T14545 Medical abortion ................................................................................................. 155.31
+Note: Includes all associated services rendered on the same day as the abortion, including the consultation whenever rendered, required components of Rh factor, associated services including counselling rendered on the day of the procedure, and any medically necessary clinical imaging.
+15120 Pregnancy test, immunologic - urine .................................................................... 10.94
+Medical Services Commission – December, 2011 7-15
+Anes.
+$ Level
+Infant Care
+00118 Attendance at caesarian section (if specifically requested by surgeon for care of baby only) ................................................................................................. 85.50
+00119 Routine care of newborn in hospital ..................................................................... 87.40
+Gynecology
+14540 Insertion of intrauterine contraceptive device (operation only) ............................ 40.61 2
+Note: Includes Pap smear if required.
+14560 Routine pelvic examination including Papanicolaou smear
+(no charge when done as a pre and post-natal service) ..................................... 29.79
+Note: Services billed under this code must include both a pelvic examination and Pap smear.
+Urology
+Y13655 GP vasectomy bonus associated with bilateral vasectomy .................................. 20.20
+Notes:
+i) Restricted to General Practitioners
+ii) Maximum of 25 bonuses per calendar year per physician
+iii) Payable only when fee item S08345 billed in conjunction
+iv) Maximum of one bonus per vasectomy per patient.
+Surgical Assistance
+13194 First Surgical Assist of the Day ............................................................................. 75.76
+Notes:
+i) Restricted to General Practitioners
+ii) Maximum, of one per day per physician, payable in addition to 00195,00196, 00197 or 00193.
+Total operative fee(s) for procedure(s):
+00195 - less than $317.00 inclusive .............................................................................. 130.08
+00196 - $317.01 to 529.00 inclusive .............................................................................. 183.39
+00197 - over $529.01 .................................................................................................... 240.16
+00198 Time, after 3 hours of continuous surgical assistance for one patient, each 15 minutes or fraction thereof ............................................................................... 27.47
+Notes:
+i) In those rare situations where an assistant is required for minor surgery a detailed explanation of need must accompany the account to the Plan.
+ii) Where an assistant at surgery assists at two operations in different areas performed by the same or different surgeon(s) under one anesthesic, s/he may charge a separate assistant fee for each operation, except for bilateral procedures, procedures within the same body cavity or procedures on the same limb.
+iii) Visit fees are not payable with surgical assistance listings on the same day, unless each service is performed at a distinct/separate time. In these instances, each claim must state time service was rendered.
+7-16 Medical Services Commission – December, 2011
+Anes.
+$ Level
+Open Heart Surgery:
+00193 Non-CVT-certified surgical assistance at open-heart surgery, per quarter hour or major portion thereof ................................................................................ 27.78
+Note: The same fee applies equally to all assistants (first, second, etc.).
+Anesthesia
+13052 Anesthetic evaluation - non-certified anesthesiologist ......................................... 38.71
+Note: See Anesthesia Preamble regarding Pre-Anesthetic Evaluation Fees.
+Minor Procedures
+00190 Forms of treatment other than excision, X-ray, or Grenz ray; such as removal of haemangiomas and warts with electrosurgery, cryotherapy, etc.- per visit (operation only) ............................................................................... 29.46
+Notes:
+i) Payable to non-dermatologists only.
+ii) The treatment of benign skin lesions for cosmetic reasons, including common warts (verrucae) is not a benefit of the Plan. Refer to Preamble B.16.2(4)(a) and (b)“Surgery for the Alteration of Appearance.”
+13660 Metatarsal bone - closed reduction (operation only) ........................................... 49.69 2
+13600 Biopsy of skin or mucosa (operation only) ........................................................... 48.88 2
+13601 Biopsy of facial area (operation only) ................................................................... 48.88 2
+Note: Punch or shave biopsies not to be charged under fee items 13600 or 13601.
+13605 Opening superficial abscess, including furuncle - operation only ........................ 41.87 2
+13610 Minor laceration or foreign body - not requiring anesthesia
+- operation only ..................................................................................................... 33.54
+Notes:
+i) Intended for primary treatment of injury.
+ii) Not applicable to dressing changes or removal of sutures.
+iii) Applicable for steri-strips or glue to repair a primary laceration.
+13611 Minor laceration or foreign body - requiring anesthesia - operation only ............. 62.46 2
+13612 Extensive laceration greater than 5 cm (maximum charge 35 cm) - operation only - per cm ......................................................................................... 12.52 2
+13620 Excision of tumour of skin or subcutaneous tissue or small scar under local anesthetic - up to 5 cm (operation only) ...................................................... 62.46 2
+13621 - additional lesions removed at the same sitting (maximum per sitting, five) each (operation only) ................................................................................... 31.24
+Note: The treatment of benign skin lesions for cosmetic reasons, including common warts (verrucae) is not a benefit of the Plan. Refer to Preamble B.16 (4)(a) and (b) “Surgery for the Alteration of Appearance.”
+13622 Localized carcinoma of skin proven histopathologically (operation only) ........... 69.00 2
+13630 Paronychia - operation only (operation only) ....................................................... 33.46 2
+13631 Removal of nail - simple operation only ............................................................... 33.46 2
+13632 - with destruction of nail bed (operation only) ...................................................... 67.69 2
+13633 Wedge excision of one nail (operation only) ....................................................... 59.72 2
+13650 Enucleation or excision of external thrombotic haemorrhoid
+(operation only) ..................................................................................................... 49.07 2
+Medical Services Commission – December, 2011 7-17
+Anes.
+$ Level
+Y10710 In office Anoscopy ................................................................................................ 7.45
+Notes:
+i) Anoscopy is the examination of the anus and anal sphincter, for evaluating patients with anal and/or peri-anal symptoms (pain or bleeding), or used as an adjunct to the DRE.
+ii) Not payable in addition to 00715, 00716, 00718, 10714, 10731, 10732 or
+10733.
+iii) Restricted to General Practitioners.
+7-18 Medical Services Commission – December, 2011
+Total
+Fee $
+Laboratory Services
+The following tests, when performed in physicians’ offices, are accepted for payment by the Medical Services Plan of British Columbia. These tests are not payable to laboratories, vested interest laboratories and/or hospitals.
+00012 Venepuncture and dispatch of specimen to laboratory, when no other blood work performed ............................................................................................. 5.62
+Notes:
+i) This is the only fee applicable for taking blood specimens and is to apply in those situations where a single bloodwork service is provided by an unassociated facility or person.
+ii) Where a blood specimen is taken by physician’s office and dispatched to another unassociated physician’s office or diagnostic facility, the original physcian’s office may charge 00012 only when it does not perform another laboratory procedure using blood collected at the same time. (See Preamble Clause B.6.)
+iii) When billed with another service such as an office visit, 00012 may be billed at 100%.
+15132 Candida Culture ...................................................................................................... 6.50
+15133 Examination for eosinophils in secretions, excretions and
+other body fluids ..................................................................................................... 6.97
+P15134 Examination for pinworm ova ................................................................................. 5.76
+15136 Fungus, direct examination, KOH preparation ....................................................... 8.23
+15100 Glucose - semiquantitative (dipstick analysed visually or by reflectance meter) ..................................................................................................................... 3.53
+15137 Hemoglobin cyanmethemoglobin method and/or haematocrit. .............................. 3.07
+15000 Hemoglobin - other methods .................................................................................. 1.55
+Note: 15137 and 15000 - see Laboratory Medicine Preamble for hematology protocol.
+15110 Occult blood – feces ............................................................................................... 5.12
+Note: Applies only to guaiac methods.
+15120 Pregnancy test, immunologic - urine .................................................................... 10.94
+30015 Secretion smear for eosinophils ............................................................................ 7.15
+15138 Sedimentation rate ................................................................................................. 2.46
+15139 Sperm, Seminal examination for presence or absence ....................................... 14.40
+P15140 Stained smear......................................................................................................... 7.25
+P15141 Trichomonas and/or Candida direct examination ................................................... 5.49
+15130 Urinalysis - Chemical or any part of (screening) .................................................... 2.05
+15131 Urinalysis - Microscopic examination of centrifuged deposit .................................. 4.00
+15142 Urinalysis - Complete diagnostic, semi-quant and micro ....................................... 5.37
+15143 White cell count only (see hematology protocol) .................................................... 6.31
+The following test is payable to laboratories, vested interest laboratories, hospitals and physicians’ offices:
+9
+3120 E.C.G. tracing, without interpretation, (technical fee) ........................................... 16.15
+Investigation
+00117 Interpretation of electrocardiogram by non-internist .............................................. 9.77
+Medical Services Commission – December, 2011 7-19
+Total
+Fee $
+No Charge Referral
+03333 Use this code when submitting a claim for a “no charge referral.”
+GPSC Initiated Listings
+The following incentive payments are available to B.C.’s eligible family physicians. The purpose of the incentive payments is to improve patient care. GPSC retains the right to modify or change ees.
+f
+Physicians are eligible to participate in the incentive program if they are:
+1. A general practitioner who has a valid BC MSP practitioner number (registered specialty 00). Practitioners who have billed any specialty consultation fee in the previous 12 months are not eligible.
+2. Currently in general practice in BC as a full service family physician; and
+3. Responsible for providing the patient’s longitudinal general practice care.
+A
+dditional detailed eligibility requirements are identified in each section.
+1. Expanded Full Service Family Practice Condition-based Payments
+G14050 Incentive for Full Service General Practitioner
+- annual chronic care bonus (diabetes mellitus) .............................................................. 125.00
+Notes:
+i)
+General Practitioners who have a valid MSP practitioner number (registered
+specialty 00) are eligible to bill. Physicians who have billed a specialty
+consultation fee within the preceding 12 months are not eligible.
+ii)
+Payable to the family physician who has provided the majority of the patient’s longitudinal general practice care and a clinically appropriate level of guideline-informed care for diabetes in the preceding year.
+iii)
+Applicable only for patients with confirmed diagnosis of diabetes mellitus.
+iv)
+This item may only be billed after one year of care has been provided and the patient has been seen at least twice in the preceding 12 months.
+v)
+Claim must include the ICD-9 code for diabetes (250).
+vi)
+This item may only be claimed once per patient in a consecutive 12 month
+period.
+vii)
+Payable when other CDM items G14051 or G14053 have been paid on the
+same patient.
+viii)
+If a visit is provided on the same date the bonus is billed; both services will be
+paid at the full fee.
+G14051 Incentive for Full Service General Practitioner
+- annual chronic care bonus (congestive heart failure) ................................................... 125.00
+Notes:
+i)
+General Practitioners who have a valid MSP practitioner number (registered
+specialty 00) are eligible to bill. Physicians who have billed a specialty
+consultation fee within the preceding 12 months are not eligible.
+ii)
+Payable to the general practice full service family physician who has provided
+the majority of the patient’s longitudinal general practice care and a clinically appropriate level of guideline-informed care for congestive heart failure in the preceding year.
+iii)
+Applicable only for patients with confirmed diagnosis of congestive heart
+failure.
+iv)
+This item may only be billed after one year of care has been provided
+and the patient has been seen at least twice in the preceding 12 months.
+v)
+Claim must include the ICD-9 code for congestive heart failure (428).
+vi)
+This item may only be claimed once per patient in a consecutive 12 month
+period. 7-20 Medical Services Commission – December, 2011
+Total
+Fee $
+vii)
+Payable when other CDM items G14050 or G14053 have been paid on the
+same patient.
+viii)
+If a visit is provided on the same date the bonus is billed; both services will be
+paid at the full fee.
+G14052 Incentive for Full Service General Practitioner
+- annual chronic care bonus (hypertension) ...................................................................... 50.00
+Notes:
+i)
+General Practitioners who have a valid MSP practitioner number (registered
+specialty 00) are eligible to bill. Physicians who have billed a specialty
+consultation fee within the preceding 12 months are not eligible.
+ii)
+Payable to the general practice full service family physician who has provided
+the majority of the patient’s longitudinal general practice care and a clinically appropriate level of guideline-informed care over the preceding year.
+iii)
+Applicable only for patients with confirmed diagnosis of hypertension.
+iv)
+This item may be only be billed after one year of care has been provided and the patient has been seen at least twice in the preceding 12 months.
+v) The patient must be given a copy of the hypertension flow sheet in order to facilitate patient self-management.
+vi) Claim must include the ICD-9 code for hypertension (401).
+vii) This item may only be claimed once per patient in a consecutive 12 month
+period.
+viii) Not payable if G14050 or G14051 claimed within the previous 12 months.
+ix) If a visit is provided on the same date the bonus is billed; both services will be
+paid at the full fee.
+G14053 Incentive for Full Service General Practitioner
+- annual chronic care bonus (Chronic Obstructive Pulmonary Disease- COPD) ............................................................................................................................. 125.00
+Notes:
+i)
+General Practitioners who have a valid MSP practitioner number (registered
+specialty 00) are eligible to bill. Physicians who have billed a specialty
+consultation fee within the preceding 12 months are not eligible.
+ii)
+Payable to the general practice full service family physician who has provided
+the majority of the patient’s longitudinal general practice care and provided a clinically appropriate level of guideline-informed care.
+iii)
+Applicable only for patients with confirmed diagnosis of COPD.
+iv)
+This item may only be billed after one year of care has been provided and the patient has been seen at least twice in the preceding 12 months.
+v)
+The patient must be given a copy of their personalized
+COPD care plan in order to facilitate patient self-management.
+vi) Claim must include the ICD-9 code for chronic bronchitis (491), emphysema
+(492), bronchiectasis (494) or chronic airways obstruction-not elsewhere
+classified (496).
+vii) This item may only be claimed once per patient in a consecutive 12 month
+period.
+viii) Payable when other CDM items G14050, G14051 or G14052 have been paid
+on the same patient.
+ix) If a visit is provided on the same date the bonus is billed; both services will be
+paid at the full fee.
+Successful billing of the Annual Chronic Care Bonus for COPD (G14053) allows access to 5
+Telephone/E-mail follow-up fees (G14079) per calendar year over the following 18 months.
+Medical Services Commission – December, 2011 7-21
+Total
+Fee $
+2. Conference Fees
+Facility Patient Conference Fee
+G14015 General Practice Facility Patient Conference: when requested by a facility to review ongoing management of the patient in that facility or to determine whether a patient in a facility with complex supportive care needs can safely return to the community or transition to a supportive care or long-term facility - per 15 minutes or greater portion thereof ........................................................................ 40.00
+Notes:
+i) Refer to Table 1 (below) for eligible patient populations.
+ii) Must be performed in the facility and results of the conference must be recorded in the patient chart.
+iii) Payable only for patients in a facility. Facilities limited to: hospital, palliative care facility, LTC facility, rehab facility, sub-acute facility, psychiatric facility, detox/drug and alcohol facility).
+iv) Requesting care providers limited to: long term care nurses, home care nurses, care coordinators, liaison nurses, rehab consultants, psychiatrists, social workers, CDM nurses, any health care provider charged with coordinating discharge and follow-up planning.
+v) Requires interdisciplinary team meeting of at least 2 health professionals in total, and will include family members when available.
+vi) Maximum payable per patient is 90 minutes per calendar year. Maximum payable on any one day is 60 minutes.
+vii) Claim must state start and end times of the service.
+viii) If multiple patients are discussed, the billings shall be for consecutive, non-overlapping time periods.
+ix) Not payable to physicians who are employed by or who are under contract to a facility who would otherwise have attended the conference as a requirement of their employment or contract with the facility; or physicians working under salary, service contract or sessional arrangements.
+x) Not payable on the same day for the same patient as the Community Patient Conference Fee (G14016) or Acute Care Discharge Planning Conference fee (G14017).
+xi) Visit payable in addition if medically required and does not take place concurrently with the patient conference. Medically required visits performed consecutive to the Facility Patient Conference are payable.
+Community Patient Conference Fee
+G14016 General Practice Community Patient Conference Fee: Creation of a coordinated clinical action plan for the care of community-based patients with more complex needs. Payable only when coordination of care and two-way collaborative conferencing with other health care providers is required (e.g. specialists, psychologists or counsellors, long-term care case managers, home care or specialty care nurses, physiotherapists, occupational therapists, social workers, specialists in medicine or psychiatry) as well as with the patient and possibly family members (as required due to the severity of the patients condition)
+- per 15 minutes or greater portion thereof ....................................................................... 40.00
+7-22 Medical Services Commission – December, 2011
+Total
+Fee $
+Notes:
+i) Refer to Table 1 (below) for eligible patient populations.
+ii) Fee is billable for conferences that occur as a result of care provided in the
+following community locations for patients who are resident in the
+community:
+•
+Community GP Office
+•
+Patient Home
+•
+Community placement agency
+•
+Disease clinic (DEC, arthritis, CHF, Asthma, Cancer or other
+palliative diagnoses, etc.
+•
+Assisted living
+iii) Fee includes:
+a. The interviewing of patient and family members as indicated and the conferencing with other health care providers as described above - this does not require face-to-face interaction in all cases and;
+b. As appropriate, interviewing of, and conferencing with patients, family members, and other community health care providers; organizing and reviewing appropriate laboratory and imaging investigations, administration of other types of testing as clinically indicated (e.g.: Beck Depression Inventory, MMSE, etc); provision of degrees of intervention or No CPR documentation; and
+c. The communication of that plan to patient, other health care providers, and family members or others involved in the provision of care, as appropriate; and
+d. The care plan must be recorded in the chart and include the following information:
+1., Patient’s Name
+2. Date of Service
+3. Diagnosis:
+a. V15 (Frail Elderly)
+b. V58 (Palliative/End of Life Care)
+c. Mental Illness (enter ICD-9 code of qualifying illness)
+d. Patients of any age with multiple medical needs or complex co-morbidity (enter ICD-9 code for one of the major disorders)
+4. Reason for need of Clinical Action Plan
+5. Health care providers with whom you conferred & their role in provision of care
+6. Cinical Plan determined, including tests ordered and/or administered.
+7. Patient risks based on assessment of appropriate domains (list of co-morbidities and safety risks)
+8. List of priority interventions that reflect patient goals for treatment
+9. What referrals will be made, what follow-up has been arranged (including timelines and contact information), as well as advanced planning information
+10. Start and stop times of service.
+iv) Maximum payable per patient is 90 minutes per calendar year. Maximum payable on any one day is 60 minutes.
+v) Claim must state start and end times of service.
+vi) Not payable to the same patient on the same date of service as the Facility Patient Conference fee (fee item G14015) or Acute Care Discharge Planning Conference fee (G14017).
+vii) Not payable to physicians who are employed by, or who are under contract to a facility, who would otherwise have attended the conference as a requirement of their employment or contract with the facility; or physicians working under salary, service contract or sessional arrangements.
+viii) Visit payable in addition if medically required and does not take place concurrently with clinical action plan.
+Medical Services Commission – December, 2011 7-23
+Total
+Fee $
+Acute Care Discharge Conference Fee
+G14017 General Practice Acute Care Discharge Conference fee
+In order to improve continuity of patient care upon discharge from an acute care facility, this incentive payment is available to the most responsible GP for that patient following discharge from the acute care facility. This fee is billable when a Discharge Planning Conference is performed upon the request of either an Acute Care facility, or by the GP accepting MRP status upon discharge, regarding a patient with complex supportive care needs, for review of condition(s) and planning for safe transition to the community or to a different facility; another acute care facility, or a supportive care or long-term care facility. - per 15 minutes or greater portion thereof ........................................................................ 40.00
+Notes:
+i) Refer to Table 1 for eligible populations.
+ii) Payable only for patients being discharged from an acute care facility to the community or to a different facility; another acute care facility, or a supportive care or Long Term Care facility.
+iii) Must be performed in the acute care facility and results of the conference must be recorded in the patient’s chart in the acute care facility and the receiving GP’s office chart (or receiving facility’s chart in the case of inter-facility transfer).
+iv) Face-to-face conferencing is required; the only exception is if a patient is being discharged from an acute care facility in a different community, and a chart notation must be made to indicate this circumstance.
+v) Requesting care providers limited to: Facility-affiliated physicians and nurses, GP assuming MRP status upon patient’s discharge, care coordinators, liaison nurses, rehab consultants, social workers, any healthcare provider charged with coordinating discharge and follow-up planning.
+vi) Requires interdisciplinary team meeting of the GP assuming MRP status upon discharge and a minimum of 2 other health professionals as enumerated above, and will include family members when appropriate.
+vii) Fee includes:
+a) Where appropriate, interviewing of and conferencing with patient, family members, and other health providers of both the acute care facility and community.
+b) Review and organization of appropriate clinical information.
+c) The integration of relevant information into the formulation of an action plan for the clinical care of the patient upon discharge from the acute care facility, including provision of Degrees of intervention and end of life documentation as appropriate.
+d) The care plan must be recorded and must include patient identifiers, reason for the care plan, list of co-morbidities, safety risks, list of interventions, what referrals to be made, what follow-up has been arranged.
+viii) This fee does not cover routine discharge planning from an acute-care facility, nor is this fee payable for conferencing with acute-care nurses during the course of a patient’s stay in the acute care facility.
+ix) Maximum payable per patient is 90 minutes per calendar year. Maximum payable on any one day is 60 minutes.
+x) Claim must state start and end times of the service.
+xi) If multiple patients are discussed, the billings shall be for consecutive, non-overlapping time periods.
+xii) Not payable to physicians who are employed by or who are under contract to a facility who would otherwise have attended the conference as a requirement of their employment or contract with the facility; or physicians working under salary, service contract or sessional arrangements.
+7-24 Medical Services Commission – December, 2011
+xiii) Medically required visits performed consecutive to the Acute Care Discharge Conference are payable.
+xiv) Submit the new fee item G14017 through the MSP Claims System under the patient's PHN. The claim must include ICD-9 codes V15, V58, or the code for one of the major disorders.
+xv) Not billable on the same day as Facility Patient or Community Patient Conferencing Fees (G14015 or G14016).
+xvi) Not billable on the same day as any GPSC planning fees (G14033, G14043,G14063 (Palliative Planning Fee).
+Table 1: Eligible patient populations for the Facility Patient, Community Patient and Acute Care
+Discharge Conference Fees
+i. Frail elderly (ICD-9 code V15)
+Patient over the age of 65 years with at least 3 out of the following factors:
+•
+unintentional weight loss (10 lbs in the past year)
+•
+General feeling of exhaustion
+•
+Weakness (as measured by grip strength)
+•
+Slow gait speed (decreased balance and motility)
+•
+Low levels of physical activity (slowed performance and relative inactivity)
+•
+Incontinence
+•
+Cognitive impairment
+ii. Palliative care (ICD-9 code V58)
+Patient of any age who:
+•
+Are living at home ("Home" is defined as wherever the person is living, whether in their own home, living with family or friends, or living in an assisted living residence or hospice); and
+•
+Have been diagnosed with a life-threatening illness or condition; and
+•
+Have a life expectancy of up to six months; and
+•
+Consent to the focus of care being palliative rather than treatment aimed at cure.
+iii. End of life (ICD-9 code V58)
+Patients of any age:
+•
+Who have been told by their physician that they have less than six months to live; or
+•
+With terminal disease who wish to discuss end of life, hospice or palliative care.
+iv. Mental illness
+Patients of any age with any of the following disorders are considered to have mental illness:
+•
+Mood Disorders
+•
+Anxiety and Somatoform Disorders
+•
+Schizophrenia and other Psychotic Disorders
+•
+Eating Disorders
+•
+Substance Use Disorders
+•
+Infant, Child and Adolescent Disorders
+•
+Delirium, Dementia and Other Cognitive Disorders
+•
+Personality Disorders
+•
+Sleep Disorders
+•
+Developmentally Delayed, Fetal Alcohol Spectrum Disorders and Autism Spectrum Disorders
+•
+Sexual Dysfunction
+•
+Dissociative Disorders
+•
+Mental Disorders due to a General Medical Condition
+Medical Services Commission – December, 2011 7-25
+•
+Factitious Disorder
+Definitions and the management of these mental disorders are defined in the Manual: Management of Mental Disorders, Canadian Edition, Volume One and Two, edited by Dr. Elliot Goldner, Mental Health Evaluation and Community Consultation Unit, University of British Columbia.
+Definitions for Delerium, Dementia and Other Cognitive Disorders; Developmental Disabilities; Dissociative Disorders; Mental Disorders due to a General Medical Condition and Factitious Disorder are found in the Diagnostic and Statistical Manual of Mental Disorders - DSM-IVR.
+v. Patients of any age with multiple medical needs or complex co-morbidity
+Patients of any age with multiple medical conditions or co-morbidities (two or more distinct but potentially interacting problems) where care needs to be coordinated over a period of time between several health disciplines. On your claim form use the code for one of the major disorders.
+Total
+Fee $
+General Practice Urgent Telephone Conference with a Specialist Fee
+The intent of this initiative is to improve management of the patient with acute needs, and reduce unnecessary ER or hospital admissions/transfers.
+This fee is billable when the severity of the patient’s condition justifies urgent conference with a specialist or GP with specialty training, for the development and implementation of a care plan within the next 24 hours to keep the patient stable in their current environment
+This fee is not restricted by diagnosis or location of the patient, but by the urgency of the need for care.
+G14018 General Practice Urgent Telephone Conference with a Specialist Fee: Conferencing on an urgent basis (within 2 hours of request for a telephone conference) with a specialist or GP with specialty training by telephone followed by the creation, documentation, and implementation of a clinical action plan for the care of patients with acute needs; i.e. requiring attention within the next 24 hours and communication of that plan to the patient or patient's representative...................................................................................................... 40.00
+Notes:
+i)
+Payable to the GP who initiates a two-way telephone communication
+(including other forms of electronic verbal communication) with a specialist or
+GP with specialty training regarding the urgent assessment and management
+of a patient but without the responding physician seeing the patient.
+ii)
+A GP with specialty training is defined as a GP who:
+a. Provides specialist services in a Health Authority setting and is acknowledged by the Health Authority as acting in a specialist capacity and providing specialist services;
+b. Has not billed another GPSC fee item on the patient in the previous
+18 months; Telephone advice must be related to the field in which
+the GP has received specialty training.
+iii)
+Conversation must take place within two hours of the GP’s request and must
+be physician to physician. Not payable for written communication (i.e. fax,
+letter, e-mail).
+iv)
+Includes:
+a. Discussion with the specialist of pertinent family/patient history,
+history of presenting complaint, and discussion of the patient's
+condition and management after reviewing laboratory and other data
+where indicated.
+b. Developing, documenting and implementing a plan to manage the
+patient safely in their care setting.
+7-26 Medical Services Commission – December, 2011
+Total
+Fee $
+c. Communication of the plan to the patient or the patient’s
+representative.
+v)
+The care plan must be recorded in the patients chart and include the
+following information:
+a. Patient’s Name.
+b. Date of Service.
+c. Diagnosis.
+d. Reason for need of Clinical Action Plan.
+e. Name of specialist/GP with specialty training & their role in provision
+of care.
+f. Elements of the Clinical Action Plan determined.
+g. Patient risks based on assessment of appropriate domains (list of
+relevant co-morbidities and safety risks).
+h. What referral will be made, what follow-up has been arranged
+(including timelines), as well as advanced planning information if
+appropriate.
+i. Start times of service.
+vi)
+Not payable to the same patient on the same date of service as any other
+Patient Conference (fee items G14015, G14016, G14017), complex care,
+mental health or palliative care planning (G14033, G14043, G14063) or
+telephone fees.
+vii)
+Not payable to physicians who are employed by, or who are under a contract
+to a facility, who would otherwise have provided the service as a requirement
+of their employment or contract with the facility; or physicians working under
+salary, service contract or sessional arrangement.
+viii)
+Include start time in time fields when submitting claim.
+ix)
+Not payable for situations where the primary purpose of the call is to:
+a. book an appointment
+b. arrange for transfer of care that occurs within 24 hours
+c. arrange for an expedited consultation or procedure within 24 hours
+d. arrange for laboratory or diagnostic investigations
+e. inform the other physician of results of diagnostic investigations
+f. arrange a hospital bed for the patient.
+g. obtain non-urgent advice for patient management (i.e. not required
+within the next 24 hours).
+x)
+Limited to one claim per patient per physician per day.
+xi)
+Out-of-Office Hours Premiums and Rural Retention Premiums may not be
+claimed in addition.
+xii)
+Maximum of 6 (six) services per patient, per practitioner per calendar year.
+xiii)
+Visit payable on same date of service if medically required and does not take
+place concurrently with the clinical action plan.
+GP Telephone/E-mail follow-up Management Fee
+In order to encourage non-face-to-face communication with patients covered by some of the GPSC incentives, the initial 4 separate telephone/e-mail follow up fees have been simplified into a single code that will still apply to the planning incentives (Complex Care G14033, Mental Health G14043, Palliative Care G14063 & COPD G14053 which requires a COPD Action Plan). Patients covered by one or more of these incentives are eligible for 5 telephone/e-mail services over the 18 months following the billing of the qualifying incentive(s).
+G14079 GP Telephone/Email Management Fee ............................................................................ 15.00
+This fee is payable for 2-way communication with eligible patients, or the patient’s medical representative, via telephone or email by the GP who has billed and been paid for at least one of the following GPSC incentives:
+Complex Care Planning Fee (G14033)
+Mental Health Planning Fee (G14043) Medical Services Commission – December, 2011 7-27
+Annual Chronic Care Bonus for COPD (G14053)
+Palliative Care Planning Fee (G14063)
+This fee is billable for medical management of the conditions covered under the initial planning/Chronic Care fee. This fee is not to be billed for simple appointment reminders or referral notification.
+Notes:
+i) Payable to a maximum of 5 times per patient per calendar year following
+the successful billing of G14033, G14043, G14053, or G14063 within the
+previous 18 months.
+ii) Telephone/Email Management requires two-way communication between the
+patient or the patient’s medical representative and physician or medical office
+staff for the purpose of medical management of the relevant chronic
+condition(s); it is not payable for simple notification of office or laboratory
+appointments or of referrals.
+iii) Payable only to the physician paid for the G14033, G14043, G14053, or
+G14063 unless that physician has agreed to share care with another
+delegated physician. To facilitate payment, a note record should be submitted
+by the delegated physician.
+iv) G14016, Community Patient Conferencing Fee, payable on same day for
+same patient if all criteria met. Time spent on telephone with patient under
+this fee does not count toward the time requirement for the G14016.
+v) Not payable on the same calendar day as a visit or service fee by same
+physician for same patient with the exception of G14016.
+Chart entry must record the name of the person who communicated with the patient or patient’s medical representative, as well as capture the elements of care discussed.
+3
+. Complex Care Fees
+The Complex Care Management Fee was developed to compensate GPs for the management of complex patients who have chronic conditions from a least 2 of the 8 categories listed below. Providing the Complex Care planning visit and billing for the development of a care plan allows access to 5 telephone/e-mail fees (G14079) during the following 18 months.
+These items are payable only to the General Practitioner who accepts the role of being Most Responsible for the longitudinal, coordinated care of that patient; by billing this fee the practitioner accepts that responsibility for the ensuing calendar year.
+The Most Responsible General Practitioner may bill this fee when providing care only to community patients; i.e. residing in their homes or in assisted living with two or more of the following chronic conditions:
+1)
+Diabetes mellitus (type 1 and 2)
+2)
+Chronic Kidney Disease
+3)
+Congestive heart failure
+4)
+Chronic respiratory Condition (asthma, emphysema, chronic bronchitis, bronchiectasis, Pulmonary Fibrosis, Fibrosing Alveolitis, Cystic Fibrosis etc.)
+5)
+Cerebrovascular disease
+6)
+Ischemic heart disease, excluding the acute phase of myocardial infarct
+7)
+Chronic Neurodegenerative Diseases (Multiple Sclerosis, Amyotrophic Lateral Sclerosis, Parkinson’s disease, Alzheimer’s disease, stroke or other brain injury with a permanent neurological deficit, paraplegia or quadriplegia etc.)
+8)
+Chronic Liver Disease with evidence of hepatic dysfunction.
+If a patient has more than 2 of the qualifying conditions, when billing the Complex Care Management Fee the submitted diagnostic code from Table 1 should represent the two conditions creating the most complexity.
+7-28 Medical Services Commission – December, 2011
+Successful billing of the Complex Care Management Fee (G14033) allows access to 5 Telephone/E-mail follow- up fees (G14079) per calendar year over the following 18 months.
+Total
+Fee $
+G14033 GP Annual Complex Care Management Fee .................................................................. 315.00
+The Complex Care Management Fee is advance payment for the
+complexity of caring for patients with two of the eligible conditions
+and is payable upon the completion and documentation of a Complex
+Care Plan for the management of the complex care patient until the
+complex care plan is reviewed and revised in the next calendar year.
+A Complex Care Plan requires documentation of the following elements in the patient’s chart that:
+1. There has been a detailed review of the case/chart and of current therapies;
+2. There has been a face-to-face visit with the patient, or the patient’s medical
+representative if appropriate, on the same calendar day that the Complex Care
+Management Fee is billed;
+3. Specifies a clinical plan for the care of that patient’s chronic diseases covered
+by the complex care fee;
+4. Incorporates the patient’s values and personal health goals in the care plan
+with respect to the chronic diseases covered by the complex care fee;
+5. Outlines expected outcomes as a result of this plan, including end-of-life
+Issues (advance care planning) when clinically appropriate;
+6. Outlines linkages with other health care professionals that would be involved
+in the care, their expected roles;
+7. Identifies an appropriate time frame for re-evaluation of the plan;
+8. Confirms that the care plan has been communicated verbally or in writing to the
+patient and/or the patient’s medical representative, and to other involved health
+professionals as indicated.
+The development of the care plan is done jointly with the patient &/or the patient representative as appropriate. The patient &/or their representative/family should leave the planning process knowing there is a plan for their care and what that plan is.
+Notes:
+i) Payable once per calendar year.
+ii) Payable in addition to office visits or home visits same day.
+iii) Visit or CPx fee to indicate face-to-face interaction with patient same day
+must accompany billing.
+iv) G14016, Community Patient conferencing fee, payable on same day for
+same patient if all criteria met.
+v) G14015, Facility Patient conferencing fee, not payable on the same day for
+the same patient, as facility patients not eligible.
+vi) G14017, Acute Care Discharge Planning conferencing fee, not payable on
+the same day for the same patient, as facility patients not eligible.
+vii) CDM fees G14050/G14051/G14052/G14053 payable on same day for same
+patient, if all other criteria met.
+viii) Minimum required time 30 minutes in addition to visit time same day.
+ix) Maximum of 5 complex care fees per day per physician.
+x) G14079 – Telephone/e-mail follow up fee is not payable on the same day.
+xi) Not payable for patients seen in locations other than the office, home or
+assisted living residence where no professional staff on site.
+xii) Not payable to physicians who are employed by or who are under contract to
+a facility and whose duties would otherwise include provision of this care;
+xiii) Not payable to physicians working under salary, service contract or sessional arrangements whose duties would otherwise include provision of this care.
+Medical Services Commission – December, 2011 7-29
+Diagnostic codes submitted with 14033 billing must be from Table 1. If the patient has multiple co-morbidities, the submitted diagnostic code should represent the two conditions creating the most complexity of care.
+Total
+Fee $
+Table 1: Complex Care Diagnostic codes
+Diagnostic Code
+Condition One
+Condition Two
+N519
+Chronic Neurodegenerative Disorder
+Chronic Respiratory Condition
+N414
+Chronic Neurodegenerative Disorder
+Ischemic Heart Disease
+N428
+Chronic Neurodegenerative Disorder
+Congestive Heart Failure
+N250
+Chronic Neurodegenerative Disorder
+Diabetes
+N430
+Chronic Neurodegenerative Disorder
+Cerebrovascular Disease
+N585
+Chronic Neurodegenerative Disorder
+Chronic Kidney Disease (Renal Failure)
+N573
+Chronic Neurodegenerative Disorder
+Chronic Liver Disease (Hepatic Failure)
+R414
+Chronic Respiratory Condition
+Ischemic Heart Disease
+R428
+Chronic Respiratory Condition
+Congestive Heart Failure
+R250
+Chronic Respiratory Condition
+Diabetes
+R430
+Chronic Respiratory Condition
+Cerebrovascular Disease
+R585
+Chronic Respiratory Condition
+Chronic Kidney Disease (Renal Failure)
+R573
+Chronic Respiratory Condition
+Chronic Liver Disease (Hepatic Failure)
+I428
+Ischemic Heart Disease
+Congestive Heart Failure
+I250
+Ischemic Heart Disease
+Diabetes
+I430
+Ischemic Heart Disease
+Cerebrovascular Disease
+I585
+Ischemic Heart Disease
+Chronic Kidney Disease (Renal Failure)
+I573
+Ischemic Heart Disease
+Chronic Liver Disease (Hepatic Failure)
+H250
+Congestive Heart Failure
+Diabetes
+H430
+Congestive Heart Failure
+Cerebrovascular Disease
+H585
+Congestive Heart Failure
+Chronic Kidney Disease (Renal Failure)
+H573
+Congestive Heart Failure
+Chronic Liver Disease (Hepatic Failure)
+D430
+Diabetes
+Cerebrovascular Disease
+D585
+Diabetes
+Chronic Kidney Disease (Renal Failure)
+D573
+Diabetes
+Chronic Liver Disease (Hepatic Failure)
+C585
+Cerebrovascular Disease
+Chronic Kidney Disease (Renal Failure)
+C573
+Cerebrovascular Disease
+Chronic Liver Disease (Hepatic Failure)
+K573
+Chronic Kidney Disease (Renal Failure)
+Chronic Liver Disease (Hepatic Failure)
+4. Prevention Fees
+G14066 Personal Health Risk Assessment .................................................................................... 50.00
+This fee is payable to the general practitioner who undertakes a Personal Health Risk Assessment with their patients who belong to one of the designated target populations (obese, smoker, physically inactive, unhealthy eating) either as part of proactive care or in response to a request for preventative care from one of these patients. The GP is expected to develop a plan that recommends age and sex specific targeted clinical preventative actions of proven benefit, consistent with the Lifetime Prevention Schedule and GPAC Obesity and Cardiovascular Disease – Primary Prevention Guidelines. The Personal Health Risk Assessment requires a face to face visit with the patient or patient’s medical representative and must be billed in addition to the age appropriate visit fee. 7-30 Medical Services Commission – December, 2011
+Patient Eligibility:
+•
+Eligible patients are community based, living in their home, with family, in supportive housing or assisted living. Facility based patients are not eligible
+Notes:
+i) Payable only for patients with one or more of the following risk factors:
+Smoking, unhealthy eating, physically inactive, medical obesity.
+ii) Only applicable to services submitted using one of the following diagnostic
+codes: Smoking (786), Unhealthy Eating (783), physically inactive (785),
+Medical Obesity (783).
+iii) Requires chart entry documenting discussion and preventative plan of action.
+iv) Face to face visit required with patient or patient’s medical representative on
+the same calendar day that the personal health risk assessment is billed.
+v) Payable in addition to the office visit billed on the same day.
+vi) Not payable on the same day as fee items G14015, G14017, G14033,
+G14043, G14063.
+vii) Payable to a maximum of 100 patients per calendar year, per physician.
+viii) Payable once per calendar year per patient.
+ix) Not payable to physicians who are employed by or who are under contract to a facility and whose duties would otherwise include provision of this care;
+x) Not payable to physicians working under salary, service contract or sessional arrangements whose duties would otherwise include provision of this care.
+BC Lifetime Prevention Schedule Recommended Actions
+Clinical Condition
+MEN
+WOMEN
+Colorectal Cancer Screening (Fecal Occult Blood Testing q1-2 years starting age 50)
+•
+•
+Mammography Screening (40-79 yrs, q 1-2 years)
+•
+Pap Smear Screening (sexually active until age 69, q 1 – 2 years)
+•
+Hypertension Screening
+•
+•
+Hyperlipidemia Screening ( Male 40 yr; Female 50 yr or postmenopausal; or sooner if at risk either sex)
+•
+•
+Diabetes Screening (Fasting Blood Sugar at least q 3 yrs age 40 yr or sooner if at risk either sex)
+•
+•
+Discussion of ASA use as clinically indicated (if high risk of Cardiovascular Disease or Stroke)
+•
+•
+Smoking Cessation
+•
+•
+Adult Immunization:
+Influenza (Annually if at risk)
+•
+•
+Pneumococcal (if ?Risk q 10 years)
+•
+•
+Tetanus /Diphtheria (q 10 years)
+•
+•
+Immunizations for patients < 19 years of age as per age appropriate publically funded schedule
+•
+•
+Diet Modification (if Cardiovascular Disease Risk)
+•
+•
+Exercise Recommendation (if Cardiovascular Disease Risk)
+•
+•
+Medical Services Commission – December, 2011 7-31
+Total
+Fee $
+5. Maternity Network Initiative
+G14010 Maternity Care Network Initiative Payment .................................................................. 2100.00
+Eligibility:
+To be eligible to be a member of the network, you must, for the complete three-month period up to the payment date:
+
+Be a general practitioner in active practice in BC;
+
+Have hospital privileges to provide obstetrical care;
+
+Be associated and registered with a minimum of three other network members (special consideration will be given in those hospital communities with fewer than four doctors providing maternity care). Refer to the Maternity Network Registration Form;
+
+Cooperate with other members of the network so that one member is always available for deliveries;
+
+Make patients aware of the members of the network and the support specialists available for complicated cases;
+
+Accept a reasonable number of referrals of pregnant patients from doctors who do not have hospital privileges to deliver babies (preferred first visit to the doctor planning to deliver the baby is no later than 12 weeks of pregnancy; the referring doctor may, with the agreement of the delivering doctor, provide a portion of the prenatal care);
+
+Share prenatal records (real or virtual) with other members of the network as practical, with the expectation to work toward utilizing an electronic prenatal record; and
+
+Each doctor must schedule at least four deliveries in each six month period of time (April to September, October to March) .
+Billing Information for Maternity Care Network Initiative Payment:
+PHN: 9824870522
+Patient Last name: Maternity
+Patient First name/initial: G
+Date of Birth: November 2, 1989
+Diagnostic code: V26
+For Date of service use: Last day in a calendar quarter
+Billing Schedule: Last day of the month, per calendar quarter
+6. General Practitioner Obstetrical Premium
+G14004 Incentive for Full Service General Practitioner - Obstetric Delivery bonus associated with vaginal delivery and postnatal care ....................................................... 275.28
+Notes:
+i) Payable to the family physician who provides the maternity care and is responsible for or shares the responsibility for providing the patient’s General Practice medical care.
+ii) Payable only when fee item 14104 billed in conjunction.
+iii) Maximum of one bonus under fee item G14004, G14008, G14009 per patient delivered.
+iv) Maximum of 25 bonuses per calendar year under fee item G14004, G14005, G14008, G14009 or a combination of these items. 7-32 Medical Services Commission – December, 2011
+Total
+Fee $
+G14005 Incentive for Full Service General Practitioner - Obstetric delivery bonus associated with management of labour and transfer to a higher level of care facility for delivery ............................................................................................................ 114.64
+Notes:
+i) Payable to the family physician who provides the maternity care
+and is responsible for or shares the responsibility for providing the
+patient's General Practice medical care.
+ii) Payable only when fee item 14105 billed in conjunction.
+iii) Maximum of one bonus under fee item G14004, G14008, G14009 per patient delivered.
+iv) Maximum of 25 bonuses per calendar year under fee item G14004, G14005,
+G14008, G14009 or a combination of these items.
+v) If claimed by a different GP in a different location, G14005 may be paid on
+the same patient delivered in addition to G14004, G14008 or G14009 paid to
+the GP attending delivery.
+G14009 Incentive for Full Service General Practitioner - Obstetric Delivery bonus related to attendance at delivery and postnatal care associated with emergency caesarean section ........................................................................................ 229.29
+Notes:
+i) Payable to the family physician who provides the maternity care and is responsible for or shares the responsibility for providing the patient’s General Practice medical care.
+ii) Payable only when fee item 14109 billed in conjunction.
+iii) Maximum of one bonus under fee item G14004, G14008, G14009 per patient delivered.
+iv) Maximum of 25 bonuses per calendar year under fee item G14004, G14005, G14008, G14009 or a combination of these items.
+G14008 Incentive for Full Service General Practitioner – Obstetric Delivery bonus associated with postnatal care after an elective C-section ............................................... 56.63
+Notes:
+i) Payable to the family physician who provides the maternity care and is responsible for or shares the responsibility for providing the patient’s General Practice medical care.
+ii) Payable only when fee item 14108 billed in conjunction.
+iii) Maximum of one bonus under fee item G14004, G14008, G14009 per patient delivered.
+iv) Maximum of 25 bonuses per calendar year under fee item G 14004, G14005, G14008, G14009 or a combination of these items.
+7. Mental Health Planning and Management Fees
+G14043 GP Mental Health Planning Fee ...................................................................................... 100.00
+This fee is payable upon the development and documentation of a patient’s Mental Health Plan for patients resident in the community (home or assisted living, excluding care facilities) with a confirmed Axis I diagnosis of sufficient severity and acuity to cause interference in activities of daily living and warrant the development of a management plan.
+This fee requires the GP to conduct a comprehensive review of the patient’s chart/history, assessment of the patient’s current psychosocial symptoms/issues by means of psychiatric history, mental status examination, and use of appropriate validated assessment tools, with confirmation of diagnosis through DSM IV diagnostic criteria. It requires a face-to-face visit with the patient and/or the patient’s medical representative.
+Medical Services Commission – December, 2011 7-33
+From these activities (review, assessment, planning and documentation), a Mental Health Plan for that patient will be developed that documents in the patient’s chart, the following:
+1. That there has been a detailed review of the patient’s chart/history and current therapies;
+2. The patient’s mental health status and provisional diagnosis by means of psychiatric history and mental state examination;
+3. The use of and results of validated assessment tools. The GPSC strongly recommends that these evaluative tools, as clinically indicated, be kept in the patient’s chart for immediate accessibility for subsequent review. Assessment tools such as the following are recommended, but other assessment tools that allow risk monitoring and progress of treatment are acceptable:
+a) PHQ9, Beck Inventory, Ham-D for depression;
+b) MMSE for cognitive impairment;
+c) MDQ for bipolar illness;
+d) GAD-7 for anxiety;
+e) Suicide Risk Assessment;
+f) Audit (Alcohol Use Disorders Identification Test) for Alcohol Misuse;
+4. DSM-IV Axis I confirmatory diagnostic criteria;
+5. A summary of the condition and a specific plan for that patient’s care;
+6. An outline of expected outcomes;
+7. Outlined linkages with other health care professionals (Including Community Mental Health Resources and Psychiatrists, as indicated and/or available) who will be involved in the patient’s care, and their expected roles;
+8. An appropriate time frame for re-evaluation of the Mental Health Plan;
+9. That the developed plan has been communicated verbally or in writing to the patient and/or the patient’s Medical Representative, and to other health professionals as indicated. The patient and/or their representative/family should leave the planning process knowing there is a plan for their care and what that plan is.
+Following the successful billing of the Mental Health Planning fee, the GP will have access to 4 additional
+counselling equivalent mental health management fees per calendar year once the 4 MSP counselling
+fees have been billed.
+Patient Eligibility:
+•
+Eligible patients are community based, living in their home or assisted living. Facility based patients are not eligible.
+Notes:
+i) Requires documentation of the patient’s mental health status and diagnosis
+by means of psychiatric history, mental state examination, and confirmatory
+DSM IV diagnostic criteria. Confirmation of Axis I Diagnosis is required for
+patients eligible for the GP Mental Health Planning Fee. Not intended for
+patients with self limiting or transient mental health symptoms (e.g.: Brief
+situational adjustment reaction, normal grief, life transitions) for whom a plan
+for longer term mental health care is not necessary.
+ii) Payable once per calendar year per patient.
+iii) Payable in addition to a visit fee billed same day.
+iv) Minimum required time 30 minutes in addition to visit time same day.
+v) G14016, Community conferencing fee payable on same day for same patient,
+if all criteria met.
+vi) Not payable on the same day as G14044, G14045, G14046, G14047,
+G14048 (GP Mental Health Management Fees).
+vii) G14079 GP telephone /e-mail management fee is not payable on the same
+day.
+viii) Not intended as a routine annual fee if the patient does not require on-going
+Mental Health Plan review and revision.
+ix) G14015, Facility Patient Conferencing Fee, not payable on same day for
+same patient as facility patients are not eligible.
+7-34 Medical Services Commission – December, 2011
+Total
+Fee $
+x) Not payable to physicians who are employed by or who are under contract to
+a facility and whose duties would otherwise include provision of this care.
+xi) Not payable to physicians working under salary, service contract or sessional
+arrangements whose duties would otherwise include provision of this care.
+G14044 GP Mental Health Management Fee age 2 – 49 ............................................................. 51.84
+G14045 GP Mental Health Management Fee age 50 - 59.............................................................. 57.03
+G14046 GP Mental Health Management Fee age 60 - 69.............................................................. 59.62
+G14047 GP Mental Health Management Fee age 70 - 79.............................................................. 67.40
+G14048 GP Mental Health Management Fee age 80+ ................................................................... 77.77
+These fees are payable for GP Mental Health Management required beyond the four MSP counselling fees (age-appropriate 00120 fees billable under the MSC payment schedule) for patients with a chronic mental health condition on whom a Mental Health Plan has been created and billed.
+Notes:
+i) Payable a maximum of 4 times per calendar year per patient.
+ii) Payable only if the Mental Health Planning Fee (G14043) has been
+previously billed and paid in the same calendar year by the same physician.
+iii) Payable only to the physician paid for the GP Mental Health Planning Fee
+(G14043), unless that physician has agreed to share care with another
+delegated physician. To facilitate payment, the delegated physician should
+submit an electronic note.
+iv) Not payable unless the age-appropriate 00120 series has been fully utilized.
+v) Minimum time required is 20 minutes.
+vi) Not payable on same day as G14043 (GP Mental Health Planning Fee), or
+G14079 GP telephone /e-mail management fee.
+vii) G14016 (Community Patient Conferencing Fee) payable on same day for
+same patient if all criteria met.
+viii) G14015 (Facility Patient Conferencing Fee) not payable on same day as
+facility patients not eligible.
+ix) CDM fees (G14050, G14051, G14052, G14053) payable if all criteria met.
+x) Not payable to physicians who are employed by or who are under contract to
+a facility and whose duties would otherwise include provision of this care.
+xi) Not payable to physicians working under salary, service contract or sessional
+arrangements whose duties would otherwise include provision of this care.
+Successful billing of the mental health planning fee (G14043) allows access to 5 Telephone/e-mail follow-up fees (G14079) per calendar year.over the following 18 months. Medical Services Commission – December, 2011 7-35
+The following list of diagnosis and acceptable ICD9 codes are applicable for the Mental Health Planning and Management Fee, fee items G14043, G14044 – G14048, and G14079:
+DIAGNOSIS
+ICD-9
+Adjustment Disorders:
+309
+Adjustment Disorder with Anxiety
+309
+Adjustment Disorder with Depressed Mood
+309
+Adjustment Disorder with Disturbance of Conduct
+309
+Adjustment Disorder with Mixed Anxiety and Depressed Mood
+309
+Adjustment Disorder with Mixed Disturbance of Conduct & Mood
+309
+Adjustment Disorder NOS
+309
+Anxiety Disorders:
+300
+Acute Stress Disorder
+308
+Agoraphobia
+300
+Anxiety Disorder Due to a Medical Condition
+300
+Anxiety Disorder NOS
+300
+Generalized Anxiety disorder
+50B, 300
+Obsessive-Compulsive Disorder
+300
+Panic Attack
+300
+Post-Traumatic Stress Disorder
+309
+Social Phobia
+300
+Specific Phobia
+300
+Substance-Induced Anxiety disorder
+300
+Attention Deficit Disorders:
+Attention Deficit disorder
+314
+Cognitive Disorders:
+Amnestic Disorder
+294
+Delirium
+293
+Dementia
+290,331,331.0,331.2
+Dissociative Disorders:
+Depersonalization Disorder
+300
+Dissociative Amnesia
+300
+Dissociative Fugue
+300
+Dissociative Identity Disorder
+300
+Dissociative Disorder NOS
+300
+Eating Disorders:
+Anorexia Nervosa
+307.1, 783.0, 307
+Bulimia
+307
+Eating Disorder NOS
+307
+Factitious Disorders:
+300,312
+Factitious Disorder; Physical & Psych Symptoms
+300,312 7-36 Medical Services Commission – December, 2011
+Factitious Disorder; Predom Physical Symptoms
+300,312
+Factitious Disorder; Predominantly Psych Symptoms
+300,312
+DIAGNOSIS
+ICD-9
+Impulse Control Disorders:
+312
+Impulse Control Disorder NOS
+312
+Intermittent Explosive Disorder
+312
+Kleptomania
+312
+Pathological Gambling
+312
+Pyromania
+312
+Trichotillomania
+312
+Mental Disorders Due to a Medical Condition
+Mood Disorders:
+Bipolar Disorder
+296
+Cyclothymic disorder
+301.1
+Depression
+311
+Dysthymic Disorder
+300.4
+Mood Disorder due to a Medical Condition
+293.8
+Substance-Induced Mood Disorder
+303, 304, 305
+Schizophrenia and other Psychotic Disorders:
+295,296,297,298
+Paranoid Type
+295,297,298
+Disorganized Type
+295, 298
+Catatonic Type
+295, 298
+Undifferentiated Type
+295, 298
+Residual Type
+295, 298
+Brief Psychotic Disorder
+295, 298
+Delusional Disorder
+295, 298
+Psychotic Disorder due to Medical Condition
+293
+Psychotic Disorder NOS
+295, 298
+Schizoaffective Disorder
+295, 298
+Schizophreniform Disorder
+295, 298
+Substance-Induced Psychosis
+295, 298
+Sexual and Gender Identity Disorder Paraphilias:
+302
+Exhibitionism
+302
+Fetishism
+302
+Frotteurism
+302
+Pedophlia
+302
+Sexual Masochism
+302
+Sexual Sadism
+302
+Transvestic Fetishism
+302
+Voyeurism
+302
+Paraphilia NOS
+302
+Sexual Dysfunction:
+302
+Hypoactive Sexual Desire Disorder
+302
+Female Orgasmic Disorder
+302
+Female Sexual Arousal Disorder
+302 Medical Services Commission – December, 2011 7-37
+Male Erectile Disorder
+302
+Male Orgasmic Disorder
+302
+Premature Ejacualation
+302
+DIAGNOSIS
+ICD-9
+Sexual Aversion Disorder
+302
+Sexual Dysfunction due to a Medical Disorder
+625
+Sexual Dysfunction due to a Substance
+302
+Sexual Pain Disorders:
+Dyspareunia (not due to a Medical Condition)
+302
+Vaginismus (not due to a Medical Condition)
+302
+Sleep Disorders:
+Primary Insomnia
+307
+Primary Hypersomnia
+307
+Narcolepsy
+347
+Breathing-Related Sleep Disorder
+780.5
+Circadian Rhythm Sleep Disorder
+307.4
+Insomnia Related to Another Mental Disorder
+307.4
+Nightmare Disorder (Dream Anxiety Disorder)
+307.4
+Sleep Disorder Due to a Medical Condition
+780.5
+Sleep Disorder Related to another Medical Condition
+780.5
+Sleepwalking Disorder
+780.5
+Substance-Induced Sleep Disorder
+780.5
+Somatoform Disorders:
+Somatization Disorder
+300.8
+Conversion Disorder
+300.1
+Pain Disorder
+307.8
+Hypochondriasis
+300.7
+Body Dysmorphic Disorder
+300.7
+Substance - Related Disorders:
+Substance-Induced Anxiety Disorder
+303,304,305
+Substance-Induced Mood Disorder
+303,304,305
+Substance-Induced Psychosis
+292
+Substance-Induced Sleep Disorder
+303,304,305
+Alcohol Dependence Syndrome
+303
+Drug Dependence Syndrome
+304
+Drug Abuse, Non-Dependent
+305
+7-38 Medical Services Commission – December, 2011
+Total
+Fee $
+8. Palliative Care Planning Fee
+G14063 Palliative Care planning fee ............................................................................................. 100.00
+This fee is payable upon the development and documentation of a Palliative Care Plan for patients who have been determined to have reached the palliative stage of a life-limiting disease or illness, with life expectancy of up to 6 months, and who consent to the focus of care being palliative rather than treatment aimed at cure. Medical Diagnoses include end-stage cardiac, respiratory, renal and liver disease, end stage dementia, degenerative neuromuscular disease, HIV/AIDS or malignancy.
+Eligible patients must be resident in the community; in a home or in
+assisted living or supportive housing. Facility-resident patients are not
+eligible for this initiative.
+This fee requires the GP to conduct a comprehensive review of the
+patient’s chart/history and assessment of the patient’s current diagnosis
+to determine if the patient has a life-limiting condition that has become
+palliative and/or remains palliative. It requires a face-to-face visit and
+assessment of the patient. If the patient is incapable of participating in the
+assessment to confirm and agree to their being palliative, then the patient’s alternate substitute decision maker or legal health representative must be consulted and asked to provide informed consent. The patient and/or their representative/family should leave the planning process knowing there is a plan for their care and what that plan is.
+Notes:
+i) Requires documentation of the patient’s medical diagnosis, determination
+that the patient has become palliative, and patient’s agreement to no longer
+seek treatment aimed at cure.
+ii) Patient must be eligible for BC Palliative Care Benefits Program (not
+necessary to have applied for palliative care benefits program).
+iii) Payable once per patient once patient deemed to be palliative. Under
+circumstances when the patient moves communities after the initial palliative
+care planning fee has been billed, it may be billed by the new GP who is
+assuming the ongoing palliative care for the patient.
+iv) Payable in addition to a visit fee billed on the same day.
+v) Minimum required time 30 minutes in addition to visit time same day.
+vi) G14016, community patient conferencing fee payable on same day for same
+patient if all criteria met.
+vii) Not payable on same day as G14015, facility patient conferencing fee.
+viii) Not payable on same day as G14017, acute care discharge planning.
+ix) G14079 GP Telephone/e-mail management fee is not payable on the same
+day.
+x) G14050, G14051, G14052, G14053, G14033, G14066 not payable once
+Palliative Care Planning fee is billed as patient has moved from active
+management of chronic disease to palliative.
+xi) G14043, G14044, G14045, G14046, G14047, G14048, the GPSC
+Mental Health Initiative Fees are still payable once G14063 has been billed
+provided all requirements are met, but are not payable on same day.
+xii) Not payable to physicians who are employed by or who are under contract to
+a facility and whose duties would otherwise include provision of this care.
+xiii ) Not payable to physicians working under salary, service contract or sessional arrangements whose duties would otherwise include provision of this care.
+Medical Services Commission – December, 2011 7-39
+Successful billing of the Palliative care planning fee (G14063) allows access to 5 Telephone/e-mail follow-up fees (G14079) per calendar year over the following 18 months.
+Total
+Fee $
+9
+. GPSC Incentves for GPs with Specialty Training
+General Practitioners with Specialty Training Telephone Advice Fees:
+Eligibility:
+•
+Must not have billed another GPSC fee item on the specific patient in the previous 18 months.
+•
+Service may be provided when physician is located in office or hospital.
+•
+For the purpose of these telephone advice fee items a General
+Practitioner (GP) with specialty training who is defined as: A GP who has specialty training and who provides services in that specialty area though a health authority supported or approved program.
+•
+Telephone advice must be related to the field in which the GP has received specialty training.
+G14021 GP with Specialty Training Telephone Advice - Initiated by a Specialist or General Practitioner, Response within 2 hours ................................................................. 60.00
+Notes:
+i)
+Payable to a GP with specialty training for two-way telephone
+communication (including other forms of electronic verbal communication)
+regarding assessment and management of a patient but without the
+consulting physician seeing the patient.
+ii)
+Conversation must take place within two hours of the initiating physician’s
+request. Not payable for written communication (i.e. fax, letter, e-mail).
+iii)
+Includes discussion of pertinent family/patient history, history of presenting
+complaint and discussion of the patient's condition and management after
+reviewing laboratory and other data where indicated.
+iv)
+Not payable for situations where the purpose of the call is to:
+a.
+book an appointment
+b.
+arrange for transfer of care that occurs within 24 hours
+c.
+arrange for an expedited consultation or procedure within 24 hours
+d.
+arrange for laboratory or diagnostic investigations
+e.
+inform the referring physician of results of diagnostic investigations
+f.
+arrange a hospital bed for the patient
+v)
+Not payable to physician initiating call.
+vi)
+No claim may be made where communication is with a proxy for either
+physician (e.g.: nurse or assistant).
+vii)
+Limited to one claim per patient per physician per day.
+viii)
+A chart entry, including advice given and to whom, is required.
+ix)
+Include start and end times in time fields when submitting claim.
+x)
+Not payable in addition to another service on the same day for the same
+patient by same practitioner.
+xi)
+Out-of-Office Hours Premiums and Rural Retention Premiums may not be
+claimed in addition.
+xii)
+Cannot be billed simultaneously with salary, sessional, or service contract
+arrangements.
+G14022 GP with Specialty Training Telephone Patient Management - Initiated by a Specialist or General Practitioner, Response in One Week .............................................. 40.00
+Notes:
+i)
+Payable to a GP with specialty training for two-way telephone
+communication (including other forms of electronic verbal communication)
+regarding assessment and management of a patient but without the
+consulting physician seeing the patient.
+ii)
+Conversation must take place within 7 days of initiating physician’s request.
+Initiation may be by phone or referral letter.
+7-40 Medical Services Commission – December, 2011
+Medical Services Commission – December, 2011 7-41
+Total
+Fee $
+iii)
+Includes discussion of pertinent family/patient history, history of presenting
+complaint and discussion of the patient's condition and management after
+reviewing laboratory and other data where indicated.
+iv)
+Not payable for situations where the purpose of the call is to:
+a.
+book an appointment
+b.
+arrange for transfer of care that occurs within 24 hours
+c.
+arrange for an expedited consultation or procedure within 24 hours
+d.
+arrange for laboratory or diagnostic investigations
+e.
+inform the referring physician of results of diagnostic investigations
+f.
+arrange a hospital bed for the patient
+v)
+Not payable to physician initiating call.
+vi)
+No claim may be made where communication is with a proxy for either
+physician (e.g.: nurse or assistant).
+vii)
+Limited to one claim per patient per physician per week.
+viii)
+A chart entry, including advice given and to whom, is required.
+ix)
+Include start and end times in time fields when submitting claim.
+x)
+Not payable in addition to another service on the same day for the same
+patient by same practitioner.
+xi)
+Out-of-Office Hours Premiums and Rural Retention Premiums may not be
+claimed in addition.
+xii)
+Cannot be billed simultaneously with salary, sessional, or service contract
+arrangements.
+G14023 GP with Specialty Training Telephone Patient Management / Follow-Up ........................ 20.00
+Notes:
+i)
+This fee applies to two-way direct telephone communication (including other
+forms of electronic verbal communication) between the GP with specialty
+training and patient, or a patient’s representative. Not payable for written
+communication (i.e. fax, letter, e-mail).
+ii)
+This fee is only payable for scheduled telephone appointments with the
+patient.
+iii)
+Access to this fee is restricted to patients having received a prior consultation,office visit, hospital visit, diagnostic procedure or surgical procedure from the same GP with Specialty training, within the 18 months preceding this service.
+iv) Telephone management requires two-way communication between the
+patient and physician on a clinical level; the fee is not billable for
+administrative tasks such as appointment notification.
+v) No claim may be made where communication is with a proxy for the
+physician (e.g.: nurse or assistant).
+vi) Each physician may bill this service four (4) times per calendar year for each
+patient.
+vii) This fee requires chart entry as well as ensuring that patient understands and
+acknowledges the information provided.
+viii) Include start and end times in time fields when submitting claim.
+ix) Not payable in addition to another service on the same day for the same
+patient by the same practitioner.
+x) Out-of-Office Hours Premiums and Rural Retention Premiums may not be
+claimed in addition.
+xi) Cannot be billed simultaneously with salary, sessional, or service contract
+arrangements.
