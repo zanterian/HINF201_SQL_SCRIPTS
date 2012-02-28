@@ -8,7 +8,7 @@ CREATE TABLE Time(
 /* People Involved */
 ------------------- DOCTOR --------------------------------
 CREATE TABLE Doctor(
-	d_id			NUMBER(4)
+	d_id			CHAR(4)
 ,	d_name			VARCHAR2(100) NOT NULL
 ,	d_employed_date	DATE
 	
@@ -25,7 +25,7 @@ CREATE TABLE Patient(
 ,	p_first_name 	VARCHAR2(100) NOT NULL
 ,	p_middle_name	VARCHAR2(100)
 ,	p_last_name		VARCHAR2(100) NOT NULL
-,	p_d_id			NUMBER(4)
+,	p_d_id			CHAR(4)
 	
 ,	CONSTRAINT pk_p_id 
 		PRIMARY KEY(p_id)
@@ -77,7 +77,7 @@ CREATE TABLE Patient_Visit(
 	pv_id			NUMBER(10)
 ,	pv_e_id			NUMBER(2)
 ,	pv_p_id			NUMBER(10) NOT NULL
-,	pv_d_id			NUMBER(4) NOT NULL
+,	pv_d_id			CHAR(4) NOT NULL
 ,	pv_t			DATE NOT NULL
 ,	pv_icd_code		CHAR(50)
 	
