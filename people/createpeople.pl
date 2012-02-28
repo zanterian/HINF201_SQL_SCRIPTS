@@ -28,12 +28,11 @@ sub gen_last_name{
 	return $surname;
 }
 
-sub gen_d_employed_date{
-	my $d_employed_date, $year, $month, $day;
-	$year = int(rand(40)) + 1972;
-	$month = int(rand(11)) + 1;
-	$day = int(rand(27)) + 1;
-	$d_employed_date = "to_date('$day/$month/$year', 'dd/mm/yyyy')";
+sub gen_date{
+	my $year = int(rand(40)) + 1972;
+	my $month = int(rand(11)) + 1;
+	my $day = int(rand(27)) + 1;
+	return "to_date('$day/$month/$year', 'dd/mm/yyyy')";
 }
 
 
@@ -46,7 +45,7 @@ sub create_doctors{
 		$d_id = &gen_d_id;
 		push @d_ids, $d_id;
 		$d_name = &gen_first_name;
-		$d_employed_date = &gen_d_employed_date;
+		$d_employed_date = &gen_date;
 		push (@init, $SQL_string.$d_id."','".$d_name."',".$d_employed_date.");");
 	}
 	
@@ -66,12 +65,13 @@ sub gen_p_d_id{
 }
 
 sub create_patients{
-	my @d_ids,@init, $SQL_String, $p_id, $p_middle_name, $p_last_name, $p_d_id, $maybe_middle;
+	my @d_ids,@init, $SQL_String, $p_id, $p_middle_name, $p_last_name, $p_d_id, $maybe_middle, @p_ids;
 	$SQL_String = 'INSERT INTO Patient (p_id, p_first_name, p_middle_name, p_last_name, p_d_id) VALUES (';
 	$p_middle_name = '';
 	for($i=0;$i<$AMOUNT_OF_PATIENTS;$i++){
 		$maybe_middle = int(rand(100));
 		$p_id = &gen_p_id;
+		push @p_ids, $p_id;
 		$p_first_name = &gen_first_name;
 		if($maybe_middle>20){
 			$p_middle_name = &gen_first_name;
@@ -84,14 +84,30 @@ sub create_patients{
 	foreach(@init){
 		print;print"\n";
 	}
+	return @p_ids;
 	
 }
-
+###################################### PATIENT_ADDITIONAL
+sub create_additional_info{
+	my @init;
+	my $SQL_String = 'INSERT INTO Patient_Additional (pa_p_id, pa_bd, pa_add1, pa_add2, pa_ph) VALUES (';
+	foreach(@_){
+		my $pa_p_id = $_;
+		my $pa_bd = &gen_date;
+		my $pa_ph = int(rand(899))+100 . int(rand(899))+100 . int(rand(899))+100;
+		push (@init, $SQL_String . "$pa_p_id,$pa_bd,'','',$pa_ph)";
+	}
+	foreach(@init){
+		print;print"\n";
+	}
+}
 
 sub main{
 	print "/* Doctor Insertions */\n";
 	my @p_d_ids = &create_doctors;
 	print "/* Patient Insertions */\n";
-	&create_patients(@p_d_ids);
+	my @p_ids = &create_patients(@p_d_ids);
+	print"/* Patient_Additional Insertions */\n";
+	&create_additional_info(@p_ids);
 }
 &main;
