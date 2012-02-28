@@ -27,6 +27,36 @@ sub leap_year{
 		push @insert_statements, $SQL_string_start."$day/$month/$year".$SQL_string_end;
 	}
 }
+###################################################################################################
+sub file_generation{
+	my $file_name = shift;
+	my $f_count = shift;
+	my $i = 1;
+	$file_name .= $f_count . '.sql';
+	open OUTPUT, ">", $file_name;
+	foreach(@_){
+		print OUTPUT $_;
+		$i++;
+	}
+}
+
+sub limit_length{
+	$OUTPUT_FILE_NAME = 'DateInsertScript';
+	my @sql_block, $f_count, $count;
+	$count = 0;
+	$f_count = 0;
+	foreach(@insert_statements){
+		if($count == 5000){
+			&file_generation($OUTPUT_FILE_NAME,$f_count,@sql_block);
+			$count = 0;
+			$f_count++;
+			undef @sql_block;
+		}
+		push @sql_block,$_;
+		$count++;
+	}
+	&file_generation($OUTPUT_FILE_NAME,$f_count,@sql_block);
+}
 
 sub main{
 	@insert_statements;
@@ -50,8 +80,6 @@ sub main{
 			}
 		}
 	}
-	foreach(@insert_statements){
-		print;print"\n";
-	}
+	&limit_length;
 }
 &main;
