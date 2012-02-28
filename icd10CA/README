@@ -1,0 +1,22 @@
+-- NAME --
+	icd_10_2SQL - convert text blobs containing ICD-10 codes into SQL Insertion Blocks
+
+-- SYNOPSIS --
+	cat [FILE] | ./extract.pl | ./{2mySQL.pl | 2oracleSQL.pl} > [DESTINATION]
+
+-- DESCRIPTION --
+	This is a simple collection of scripts that can be used to create SQL code which
+	inserts all the values into a table.
+
+	The mySQL one complies to the table 'code' found in the openEMR code base and
+	the oracle one was simply a test to make a single block of insertion code.
+
+-- EXAMPLES --
+file: icdcodestextblocb.txt
+
+-- Create the 
+cat icdcodestextblocb.txt | ./extract.pl | ./2oracleSQL.pl > sqldump.sql
+
+Will open the file 'icdcodestextblocb.txt' extract the codes, convert it into an oracleSQL insertion stataement, put it in a file name sqldump.sql
+
+Have fun!
