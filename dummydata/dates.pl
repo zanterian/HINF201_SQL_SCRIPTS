@@ -52,7 +52,7 @@ sub limit_length{
 			$f_count++;
 			undef @sql_block;
 		}
-		push @sql_block,$_;
+		push @sql_block,$_."\n";
 		$count++;
 	}
 	&file_generation($OUTPUT_FILE_NAME,$f_count,@sql_block);
