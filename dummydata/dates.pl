@@ -34,7 +34,7 @@ sub leap_year{
 
 sub main{
 	my @insert_statements, $SQL_string;
-
+	$SQL_string = 'INSERT INTO Time (t) VALUES (';
 	for($year=1972;$year<2015;$year++){
 		for($month=1;$month<=12;$month++){
 			if($month==1 || $month==3 || $month==5 || $month==7 || $month==8 || $month==10 || $month==12){
