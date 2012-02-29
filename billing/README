@@ -1,0 +1,6 @@
+This makes the billing tables needed for the "Encounter" table in the database.
+
+PracticeGuidelines is a text dump of the published billing payments by BC Ministry of health. 
+
+sample use:
+cat <File> | ./sift.pl | ./2encounter.pl > <Destination>
