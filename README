@@ -7,7 +7,13 @@ nice when it is simulated in the class use.
 
 DESCRIPTION:
 This project is meeting the needs of a small fictional BC-based Canadian general
-practice clinic that consists of a small set of practicing physicians.
+practice clinic that consists of a small set of practicing physicians. 
+
+FEATURES:
+- Patient Tracking    - Keeps track of basic patient info
+- Patient Encounters  - Keeps track of every encounter the patient has made
+- ICD-10-CA           - Contains all the ICD-10-CA Codes sent by CIHI
+- Billing             - Contains the list of fees approved by MSC
 
 TOOLS:
 The software is non-negiotable. I am assigned to only develop on Oracle 10g
