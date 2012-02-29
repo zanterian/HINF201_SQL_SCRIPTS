@@ -18,3 +18,9 @@ UTILITY DIRECTORIES
 ./date/ 	- Contains scripts to make the DateInsertScript.sql
 ./icd10CA/	- Contains scripts and text for the ICD-10-CA Table
 ./people/	- Contains scripts and text to make the doctors and patients
+
+
+TODO:
+Need to integrate the billing script into the people and doctor one so that
+I can make dummy events that fill up how much a doctor should be payed for the
+month (or day, or whatever)
