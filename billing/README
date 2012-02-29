@@ -1,8 +1,0 @@
-This makes the billing tables needed for the "Encounter" table in the database.
-
-PracticeGuidelines is a text dump of the published billing payments by BC Ministry of health. 
-The site can be found: http://www.health.gov.bc.ca/msp/infoprac/physbilling/payschedule/index.html
-I took the guidelines from the "General Practice" PDF, as that was the most relevent
-
-sample use:
-cat <File> | ./sift.pl | ./2encounter.pl > <Destination>
