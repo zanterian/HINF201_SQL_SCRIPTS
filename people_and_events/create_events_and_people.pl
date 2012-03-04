@@ -26,11 +26,14 @@ sub gen_last_name{
 	close SURNAMES;
 	return $surname;
 }
-sub gen_date{
+sub gen_employed_date{
 	my $year = int(rand(40)) + 1972;
 	my $month = int(rand(11)) + 1;
 	my $day = int(rand(27)) + 1;
 	return "to_date('$day/$month/$year', 'dd/mm/yyyy')";
+}
+sub gen_date{
+	my $year = int(rand(100)) + 1915;
 }
 sub create_doctors{
 	my @init, $i, $SQL_string, $d_id, $d_name, $d_employed_date,@d_ids;
@@ -40,7 +43,7 @@ sub create_doctors{
 		$d_id = &gen_d_id;
 		push @d_ids, $d_id;
 		$d_name = &gen_first_name;
-		$d_employed_date = &gen_date;
+		$d_employed_date = &gen_employed_date;
 		push (@init, $SQL_string.$d_id."','".$d_name."',".$d_employed_date.");");
 	}
 	
