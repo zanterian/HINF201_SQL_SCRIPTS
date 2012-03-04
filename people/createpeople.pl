@@ -119,11 +119,11 @@ sub create_encounters{
 	open ENCOUNTERS, "< $ENCOUNTER_FILE";
 	foreach(<ENCOUNTERS>){
 		chomp;
-		my @all_text split;
+		my @all_text = split;
 		my $e_id = shift @all_text;
 		my $e_price = pop @all_text;
 		my $e_type = join(' ',@all_text);
-		my $e_type =~ s/'/''/g;
+		$e_type =~ s/'/''/g;
 		push @e_ids, $e_id;
 		&gen_encounter_sql($e_id,$e_type,$e_price);
 	}
@@ -137,7 +137,8 @@ sub main{
 	my @p_ids = &create_patients(@p_d_ids);
 	print"/* Patient_Additional Insertions */\n";
 	&create_additional_info(@p_ids);
-	
+	print"/* Encounter Insertions */\n";
+	&create_encounters;
 }
 ####################################### 
 # Main Function
