@@ -1,0 +1,14 @@
+RESOURCE FILES:
+	firstnames - text file containing a collection of first names
+	surnames - text file containing a collection of surnames
+	PracticeGuidelines - text file containing formatted collection of covered services by General Practitioners
+
+SCRIPT:
+	create_events_and_people.pl - Script that makes a sql statment to fill in the Patient, Patient_Additional, Doctor, Encounters, and Patient_Visits table.
+
+It takes in to account the fact that primary and foreign keys are being referenced.
+
+USAGE:
+	./createpeople.pl > <Destination> 
+
+
