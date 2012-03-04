@@ -1,4 +1,0 @@
-Script that makes days from a start point to an end point. Because of the magnitude of days in a 10+year insertion, it automatically creates files and outputs them.
-
-USAGE 
-./dates.pl
