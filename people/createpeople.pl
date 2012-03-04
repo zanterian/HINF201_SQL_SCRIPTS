@@ -4,6 +4,7 @@ $AMOUNT_OF_DOCTORS = 4;
 $AMOUNT_OF_PATIENTS = 1500;
 $NAME_FILE = 'firstnames';
 $SURNAME_FILE = 'surnames';
+$ENCOUNTER_FILE = 'PracticeGuidelines';
 ########################################
 sub gen_d_id{
 	my $d_id = 'D';
@@ -87,7 +88,7 @@ sub create_patients{
 	return @p_ids;
 	
 }
-###################################### PATIENT_ADDITIONAL
+####################################### PATIENT_ADDITIONAL
 sub gen_ph_number{
 	my $part1 = int(rand(899))+100;
 	my $part2 = int(rand(899))+100;
@@ -108,7 +109,14 @@ sub create_additional_info{
 		print;print"\n";
 	}
 }
-
+# ADDING ENCOUNTERS HERE
+sub create_encounters{
+	open ENCOUNTERS, "< $ENCOUNTER_FILE";
+	
+	
+	close ENCOUNTERS;
+	return @e_ids;
+}
 sub main{
 	print "/* Doctor Insertions */\n";
 	my @p_d_ids = &create_doctors;
@@ -116,6 +124,8 @@ sub main{
 	my @p_ids = &create_patients(@p_d_ids);
 	print"/* Patient_Additional Insertions */\n";
 	&create_additional_info(@p_ids);
+	
 }
+####################################### 
 # Main Function
 &main;
