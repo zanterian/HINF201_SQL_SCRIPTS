@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 # Decide how many doctors to create here
-$AMOUNT_OF_DOCTORS = 4;
-$AMOUNT_OF_PATIENTS = 1500;
+$AMOUNT_OF_DOCTORS = 50;
+$AMOUNT_OF_PATIENTS = 1;
 $NAME_FILE = 'firstnames';
 $SURNAME_FILE = 'surnames';
 $ENCOUNTER_FILE = 'PracticeGuidelines';
@@ -10,7 +10,6 @@ sub gen_d_id{
 	my $d_id = 'D';
 	$d_id .= int(rand(999));
 }
-
 sub gen_first_name{
 	open NAMES, "< $NAME_FILE";
 	my @names = <NAMES>;
@@ -19,7 +18,6 @@ sub gen_first_name{
 	close NAMES;	
 	return $name;
 }
-
 sub gen_last_name{
 	open SURNAMES, "< $SURNAME_FILE";
 	my @surnames = <SURNAMES>;
@@ -28,16 +26,12 @@ sub gen_last_name{
 	close SURNAMES;
 	return $surname;
 }
-
 sub gen_date{
 	my $year = int(rand(40)) + 1972;
 	my $month = int(rand(11)) + 1;
 	my $day = int(rand(27)) + 1;
 	return "to_date('$day/$month/$year', 'dd/mm/yyyy')";
 }
-
-
-
 sub create_doctors{
 	my @init, $i, $SQL_string, $d_id, $d_name, $d_employed_date,@d_ids;
 	$SQL_string = 'INSERT INTO Doctor (d_id, d_name, d_employed_date) VALUES ('."'";
@@ -64,7 +58,6 @@ sub gen_p_d_id{
 	my @d_ids = @_;
 	return @d_ids[int(rand($#d_ids))];
 }
-
 sub create_patients{
 	my @d_ids,@init, $SQL_String, $p_id, $p_middle_name, $p_last_name, $p_d_id, $maybe_middle, @p_ids;
 	$SQL_String = 'INSERT INTO Patient (p_id, p_first_name, p_middle_name, p_last_name, p_d_id) VALUES (';
@@ -113,7 +106,6 @@ sub create_additional_info{
 sub gen_encounter_sql{
 	print "INSERT INTO Encounter (e_id, e_type, e_price) VALUES ('@_[0]','@_[1]',@_[2]);\n";
 }
-
 sub create_encounters{
 	my @e_ids;
 	open ENCOUNTERS, "< $ENCOUNTER_FILE";
@@ -130,6 +122,16 @@ sub create_encounters{
 	close ENCOUNTERS;
 	return @e_ids;
 }
+########################################
+# Add patient visits here
+sub gen_patient_visits_sql{
+	
+}
+sub create_patient_visits{
+	
+}
+#####################################################################
+# Main method
 sub main{
 	print "/* Doctor Insertions */\n";
 	my @p_d_ids = &create_doctors;
