@@ -110,10 +110,23 @@ sub create_additional_info{
 	}
 }
 # ADDING ENCOUNTERS HERE
+sub gen_encounter_sql{
+	print "INSERT INTO Encounter (e_id, e_type, e_price) VALUES ('@_[0]','@_[1]',@_[2]);\n";
+}
+
 sub create_encounters{
+	my @e_ids;
 	open ENCOUNTERS, "< $ENCOUNTER_FILE";
-	
-	
+	foreach(<ENCOUNTERS>){
+		chomp;
+		my @all_text split;
+		my $e_id = shift @all_text;
+		my $e_price = pop @all_text;
+		my $e_type = join(' ',@all_text);
+		my $e_type =~ s/'/''/g;
+		push @e_ids, $e_id;
+		&gen_encounter_sql($e_id,$e_type,$e_price);
+	}
 	close ENCOUNTERS;
 	return @e_ids;
 }
