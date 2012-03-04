@@ -125,6 +125,11 @@ sub create_encounters{
 ########################################
 # Add patient visits here
 sub create_patient_visits{
+	my @d_ids = @{ +shift };
+	my @p_ids = @{ +shift };
+	my @e_ids = @{ +shift };
+	my $amount_of_visits = 4000;
+	
 	
 }	
 #####################################################################
@@ -138,7 +143,7 @@ sub main{
 	&create_additional_info(@p_ids);
 	print"/* Encounter Insertions */\n";
 	my @e_ids = &create_encounters;
-	&create_patient_visits;
+	&create_patient_visits(@p_d_ids,@p_ids,@e_ids);
 }
 ####################################### 
 # Main Function
