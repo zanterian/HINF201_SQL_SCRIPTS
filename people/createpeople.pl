@@ -124,12 +124,9 @@ sub create_encounters{
 }
 ########################################
 # Add patient visits here
-sub gen_patient_visits_sql{
-	
-}
 sub create_patient_visits{
 	
-}
+}	
 #####################################################################
 # Main method
 sub main{
@@ -140,7 +137,8 @@ sub main{
 	print"/* Patient_Additional Insertions */\n";
 	&create_additional_info(@p_ids);
 	print"/* Encounter Insertions */\n";
-	&create_encounters;
+	my @e_ids = &create_encounters;
+	&create_patient_visits;
 }
 ####################################### 
 # Main Function
