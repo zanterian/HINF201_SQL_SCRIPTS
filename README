@@ -17,26 +17,25 @@ FEATURES:
 
 TOOLS:
 The software is non-negiotable. I am assigned to only develop on Oracle 10g
-Express. And must also develop an application frontend using all of the
+Express. And must also develop an application frontend using only the tools that
+Oracle 10g provides me
 
 --------------------------------------------------------------------------------
 It is recommended to run the scripts in the order that they are listed in the contents section.
 
 CONTENTS
-start.sql                 - Initializes the database
-DateInsertScript{0,1,2,3} - Inserts every day from Jan/1st/1972 - Dec/31/2014
+Start.sql                 - Initializes the database
+Triggers.sql              - Sets up the triggers 
 ICD10CAScript{0,1,2}      - Inserts a large portion of ICD-10-CA by CIHI
-Populate                  - Inserts a set of doctors and patients + info
-cleanup                   - Drops all tables in the order of dependencies
+Populate.sql              - Inserts a set of doctors and patients + info
+Cleanup.sql               - Drops all tables in the order of dependencies
 
 UTILITY DIRECTORIES
-./billing/  - Contains scripts and text for making the encounters table
-./date/     - Contains scripts to make the DateInsertScript.sql
-./icd10CA/  - Contains scripts and text for the ICD-10-CA Table
-./people/   - Contains scripts and text to make the doctors and patients
+./icd10CA/             - Contains scripts and text for the ICD-10-CA Table
+./people_and_events/   - Creates Patients, Doctors, Events, and Visits
 
 
-TODO:
-Need to integrate the billing script into the people and doctor one so that
+IN PROGRESS:
+Integrate the billing script into the people and doctor one so that
 I can make dummy events that fill up how much a doctor should be payed for the
 month (or day, or whatever)
