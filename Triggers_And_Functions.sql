@@ -55,7 +55,7 @@ END;
 /************************** Patient_Additional Table Triggers  ***************/
 /*****************************************************************************/
 -- Make sure the time Primary Key exists
-CREATE OR REPLACE TRIGGER Patient_Additional_Time_Trigger
+CREATE OR REPLACE TRIGGER Pat_Addi_Time_Trigger
 BEFORE INSERT ON Patient_Additional
 FOR EACH ROW
 DECLARE 
