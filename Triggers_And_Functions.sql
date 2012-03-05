@@ -15,6 +15,7 @@ BEGIN
 	WHERE Time.t = date_in;
 	RETURN count_t;
 END;
+/
 -- Boolean-like function -- 1 for True, 0 for false
 CREATE OR REPLACE FUNCTION Check_If_Visit_Possible (date_in IN DATE, doctor_id IN CHAR(4)) RETURN NUMBER
 IS
