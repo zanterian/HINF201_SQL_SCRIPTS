@@ -64,7 +64,7 @@ DECLARE
 	date_check NUMBER;
 BEGIN
 	date_check := Check_Time_Table(:new.pa_bd);
-	IF date_check = 0 THENN
+	IF date_check = 0 THEN
 		Insert_Into_Time(:new.pa_bd);
 	END IF;
 END;
