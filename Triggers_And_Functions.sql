@@ -20,12 +20,14 @@ END;
 CREATE OR REPLACE FUNCTION Check_If_Visit_Possible (date_in IN DATE, doctor_id IN CHAR(4)) RETURN NUMBER
 IS
 	return_value NUMBER;
-	doctor_employed DATE;
-BEGIN
-	SELECT Doctor.d_employed_date
-	INTO doctor_employed
+
+	DATE docto_employed 
+AS
+	SELECT d_employed_date
 	FROM Doctor
 	WHERE Doctor.d_id = doctor_id;
+
+BEGIN
 	
 	IF doctor_employed < date_in  THEN
 		RETURN 1;
