@@ -22,20 +22,20 @@ Oracle 10g provides me
 
 --------------------------------------------------------------------------------
 It is recommended to run the scripts in the order that they are listed in the contents section.
+Aside from the one that cleans up the database of course.
 
 CONTENTS
-Start.sql                 - Initializes the database
-Triggers.sql              - Sets up the triggers 
+Start.sql                 - Initializes the database and uses procedure
+Fill_Database.sql         - Populates the database with all of the people
 ICD10CAScript{0,1,2}      - Inserts a large portion of ICD-10-CA by CIHI
-Populate.sql              - Inserts a set of doctors and patients + info
+Truncate.sql              - Empties the database, but keeps the underlying structure
 Cleanup.sql               - Drops all tables in the order of dependencies
 
 UTILITY DIRECTORIES
 ./icd10CA/             - Contains scripts and text for the ICD-10-CA Table
+./encounters/          - Contains scripts for encounter extraction
 ./people_and_events/   - Creates Patients, Doctors, Events, and Visits
 
 
 IN PROGRESS:
-Integrate the billing script into the people and doctor one so that
-I can make dummy events that fill up how much a doctor should be payed for the
-month (or day, or whatever)
+Nothing. This should be a relitively stable set of code at this point.`
