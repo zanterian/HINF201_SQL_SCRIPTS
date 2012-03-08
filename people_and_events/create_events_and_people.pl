@@ -8,7 +8,7 @@ $AMOUNT_OF_VISITS = 2500;
 $NAME_FILE = 'firstnames';
 $SURNAME_FILE = 'surnames';
 $ENCOUNTER_FILE = 'PracticeGuidelines';
-########################################
+#####################################################################
 sub gen_d_id{
 	my $d_id = 'D';
 	$d_id .= int(rand(999));
@@ -59,7 +59,7 @@ sub create_doctors{
 	}
 	return @d_ids;
 }
-###################################### PATIENTS STUFF
+###################################### PATIENTS STUFF ###############
 sub gen_p_id{
 	int(rand(9999999999));
 }
@@ -92,7 +92,7 @@ sub create_patients{
 	return @p_ids;
 	
 }
-####################################### PATIENT_ADDITIONAL
+####################################### PATIENT_ADDITIONAL ##########
 sub gen_ph_number{
 	my $part1 = int(rand(899))+100;
 	my $part2 = int(rand(899))+100;
@@ -133,7 +133,7 @@ sub create_encounters{
 	close ENCOUNTERS;
 	return @e_ids;
 }
-########################################
+#####################################################################
 # Add patient visits here
 sub create_patient_visits{
 	my @init;
@@ -163,6 +163,6 @@ sub main{
 	my @e_ids = &create_encounters;
 	&create_patient_visits(\@p_d_ids,\@p_ids,\@e_ids);
 }
-####################################### 
+#####################################################################
 # Main Function
 &main;
