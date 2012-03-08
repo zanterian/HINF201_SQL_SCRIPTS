@@ -134,6 +134,7 @@ sub create_patient_visits{
 	my $amount_of_visits = 4000;
 	
 	
+	
 }	
 #####################################################################
 # Main method
