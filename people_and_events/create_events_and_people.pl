@@ -77,6 +77,8 @@ sub create_patients{
 		$p_first_name = &gen_first_name;
 		if($maybe_middle>20){
 			$p_middle_name = &gen_first_name;
+		}else{
+			$p_middle_name = '';
 		}
 		$p_last_name = &gen_last_name;
 		$p_d_id = &gen_p_d_id;
