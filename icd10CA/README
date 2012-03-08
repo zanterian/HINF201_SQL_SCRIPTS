@@ -2,7 +2,7 @@
 	icd_10_2SQL - convert text blobs containing ICD-10 codes into SQL Insertion Blocks
 
 -- SYNOPSIS --
-	cat [FILE] | ./extract.pl | ./{2mySQL.pl | 2oracleSQL.pl} [ | ./ > [DESTINATION]
+	cat [FILE] | ./extract.pl | ./2oracleSQL.pl [ | ./limitorascript.pl | ] | > [DESTINATION]
 
 -- DESCRIPTION --
 	This is a simple collection of scripts that can be used to create SQL code which

@@ -28,7 +28,6 @@ CONTENTS
 Start.sql                 - Initializes the database and uses procedure
 Fill_Database.sql         - Populates the database with all of the people
 ICD10CAScript{0,1,2}      - Inserts a large portion of ICD-10-CA by CIHI
-Truncate.sql              - Empties the database, but keeps the underlying structure
 Cleanup.sql               - Drops all tables in the order of dependencies
 
 UTILITY DIRECTORIES
