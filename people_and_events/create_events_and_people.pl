@@ -1,7 +1,9 @@
 #!/usr/bin/perl
-# Decide how many doctors to create here
-$AMOUNT_OF_DOCTORS = 50;
-$AMOUNT_OF_PATIENTS = 1;
+# CONFIGURATION VARIABLES
+$AMOUNT_OF_DOCTORS = 20;
+$AMOUNT_OF_PATIENTS = 250;
+$AMOUNT_OF_VISITS = 2500;
+# File names
 $NAME_FILE = 'firstnames';
 $SURNAME_FILE = 'surnames';
 $ENCOUNTER_FILE = 'PracticeGuidelines';
@@ -34,6 +36,9 @@ sub gen_employed_date{
 }
 sub gen_date{
 	my $year = int(rand(100)) + 1915;
+	my $month = int(rand(11)) + 1;
+	my $day = int(rand(27)) + 1;
+	return "to_date('$day/$month/$year','dd/mm/yyyy')";
 }
 sub create_doctors{
 	my @init, $i, $SQL_string, $d_id, $d_name, $d_employed_date,@d_ids;
@@ -131,7 +136,6 @@ sub create_patient_visits{
 	my @d_ids = @{ +shift };
 	my @p_ids = @{ +shift };
 	my @e_ids = @{ +shift };
-	my $amount_of_visits = 4000;
 	
 	
 	
