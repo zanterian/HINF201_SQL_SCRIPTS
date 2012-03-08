@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 # CONFIGURATION VARIABLES
+$CLINIC_OPENING_YEAR = 1972;
 $AMOUNT_OF_DOCTORS = 20;
 $AMOUNT_OF_PATIENTS = 250;
 $AMOUNT_OF_VISITS = 2500;
@@ -29,7 +30,7 @@ sub gen_last_name{
 	return $surname;
 }
 sub gen_employed_date{
-	my $year = int(rand(40)) + 1972;
+	my $year = int(rand(40)) + $CLINIC_OPENING_YEAR;
 	my $month = int(rand(11)) + 1;
 	my $day = int(rand(27)) + 1;
 	return "to_date('$day/$month/$year', 'dd/mm/yyyy')";
