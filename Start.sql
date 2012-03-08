@@ -108,8 +108,9 @@ CREATE TABLE Patient_Visit(
 		REFERENCES ICD_10_CA(code)
 		ON DELETE SET NULL
 );
+/*************************************/
 /* Functions Triggers and Procedures */
-
+/*************************************/
 /* Procedure to be used to add a time to the table Time - this makes it easier*/
 CREATE OR REPLACE PROCEDURE Insert_Into_Time (date_in IN DATE) IS
 BEGIN

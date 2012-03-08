@@ -136,12 +136,19 @@ sub create_encounters{
 ########################################
 # Add patient visits here
 sub create_patient_visits{
-	my @d_ids = @{ +shift };
-	my @p_ids = @{ +shift };
-	my @e_ids = @{ +shift };
-	
-	
-	
+	my @init;
+	my ($d_ids,$p_ids,$e_ids) = @_;
+	my $SQL_String = 'INSERT INTO Patient_Visit (pv_id, pv_e_id, pv_p_id, pv_d_id, pv_t) VALUES(';
+	for($i = 0; $i<$AMOUNT_OF_VISITS;$i++){
+		my $t = &gen_employed_date;
+		my $e_id = $e_ids->[int(rand(@$e_ids))];
+		my $p_id = $p_ids->[int(rand(@$p_ids))];
+		my $d_id = $d_ids->[int(rand(@$d_ids))];
+		push @init, $SQL_String . "$i,'$e_id',$p_id,'$d_id',$t);";
+	}
+	foreach(@init){
+		print;print "\n";
+	}
 }	
 #####################################################################
 # Main method
@@ -154,7 +161,7 @@ sub main{
 	&create_additional_info(@p_ids);
 	print"/* Encounter Insertions */\n";
 	my @e_ids = &create_encounters;
-	&create_patient_visits(@p_d_ids,@p_ids,@e_ids);
+	&create_patient_visits(\@p_d_ids,\@p_ids,\@e_ids);
 }
 ####################################### 
 # Main Function
