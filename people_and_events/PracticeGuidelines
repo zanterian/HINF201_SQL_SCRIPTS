@@ -171,3 +171,314 @@ G14063 Palliative Care planning fee   100.00
 G14021 GP with Specialty Training Telephone Advice - Initiated by a Specialist or General Practitioner, Response within 2 hours   60.00
 G14022 GP with Specialty Training Telephone Patient Management - Initiated by a Specialist or General Practitioner, Response in One Week   40.00
 G14023 GP with Specialty Training Telephone Patient Management / Follow-Up   20.00
+B00010 Intramuscular medications   10.20 
+B00011 Intravenous medications   12.04 
+B00013 Intra-arterial medications   15.10 
+Y00014 Intra-articular medications by injection  hip (initial injection)   24.05 
+Y00015 - tendons, bursae, and all other joints  (initial injection)   16.00 
+00016 Intrathecal medications by injection   32.17 
+00019 Venesection for polycythaemia or phlebotomy - procedural fee   29.71 
+00018 Autologous ascitic infusion   46.93 
+00017 Insertion of central venous pressure catheter   23.32 
+00020 Administered outside hospital   58.57 
+00021 Administered in hospital   36.38 
+00022 Serum transfusion   23.31 
+00023 With vein dissection - extra   50.19 
+33750 Blood dialysis - physician in charge   516.73 
+33751 Repeat blood dialysis - physician in charge   194.18 
+items 33750 or 33751   130.64 
+33708 Subsequent hospital visits (Preamble, Clause B.4.e.(ii) applies)   26.63 
+33756 Reinsertion of peritoneal catheter after 10 days from initial insertion   50.79 
+77380 Insertion of permanent catheter, procedural fee only   185.47 3 
+33761 Supervision of home dialysis - per week   61.40 
+B00030 Diagnostic skin tests (Schick, Dick, TB., and Frei.)   8.42 
+B00031 Vaccination against smallpox (with certificate)   8.10 
+10010  DTaP-P  (Diphtheria, Tetanus, Pertussis, Polio)   5.12 
+10012  Td  (Tetanus, Diphtheria)   5.12 
+10013 TdP  (Tetanus, Diphtheria, Polio)   5.12 
+10014  TdaP  (Tetanus, Diphtheria, Pertussis)   5.12 
+10015   Flu  (Influenza)   5.12 
+10018 HiB  (Haemophilus influenza type b)   5.12 
+10019 IPV  (Polio Vaccine - Inactivated)   5.12 
+10020  MEN-C-C  (Meningococcal-Conjugate-ACYW135)   5.12 
+10021  MEN-C-ACYW135  (Meningococcal-Conjugate-ACYW135)   5.12 
+10022  MMR  (Measles, Mumps, Rubella)   5.12 
+10023  PNEU-C-13  (Pneumococcal 13-valent Conjugate)   5.12 
+10024 PNEU-P-23  (Pneumococcal-Polysaccharide-23)   5.12 
+10025 RAB  (Rabies)   5.12 
+10026 VAR  (Varicella)   5.12 
+10028 HPV vaccine (Human Papiloma Virus)   5.12 
+10029 Rotavirus vaccine, oral   5.12 
+T00039 Methadone or buprenorphine/naloxone treatment only   22.46 
+00040 Stomach lavage and gavage   25.41 
+00043 Anticoagulation therapy by telephone   6.58 
+00025 Where no other fee is charged - physician in chamber - 1st ½ hour   77.43 7 
+00026 - each additional 15 mins.   39.75 
+00027 - physician outside chamber - 1st ½ hour   52.73 5 
+00028 - each additional 15 mins.   28.00 
+00046 Additional charge to pertinent medical, anesthetic or surgical fee, per hour   26.92 
+00050 Enucleation of eye(s) for use in corneal transplant   136.00 
+00051 Corneal tissue processing   368.41 
+00065 Investigation (with certificate of mental ill health) (fee per doctor)   65.45 
+00067 Voluntary committal   29.34 
+00081 Emergency care, per ½ hour or major portion thereof   99.61 
+P10089 Trauma Team Leader Subsequent Hospital Visit (Days 3  15 inclusive)   77.20 
+00044 Mini Tray Fee   4.94 
+S00700 Bronchoscopy or bronchofibroscopy - procedural fee   87.71 4 
+S00702 Bronchoscopy with biopsy - procedural fee   134.46 4 
+P10700 Endobronchial cautery - extra   75.00 6 
+P10702 Endobronchial cryotherapy - extra   75.00  6  
+S00719 Thoracoscopy   165.47 7 
+S00701 Direct laryngoscopy - procedural fee   36.97 5 
+S00717 Micro-laryngoscopy - procedural fee   73.94 5 
+SY00908  - procedure and biopsy   51.88 3 
+SY00909  Flexible fiberoptic nasopharyngolaryngoscopy   38.32 3 
+S00704 Cystoscopy to include dilation and panendoscopy - procedural fee    93.50 2 
+S00708 Gastroscopy - procedural fee   90.49 3 
+S00711 Gastric biopsy - procedural fee extra   26.58 3 
+S00709 Oesophagoscopy - procedural fee   73.29 3 
+S00706 Oesophagoscopy with biopsy   105.56 3 
+S00707 Oesophagogastroduodenoscopy - procedural fee   86.92 3 
+PSY10750 Transnasal esophagogastroduodenoscopy (TGD), procedural fee   88.00 
+10708 Video capsule endoscopy using M2A capsule - professional fee:   251.70 
+SY00715 Sigmoidoscopy (with biopsy) - procedural fee   35.56 2 
+SY10714 Proctosigmoidoscopy, rigid; diagnostic   33.57 2 
+SY00716 Sigmoidoscopy, flexible; diagnostic   62.65 2 
+SY00718  - with biopsy   75.84 2 
+S10732  - with removal of foreign body   266.82 2 
+S00722 Operative arteriography - procedural fee   73.34 
+S00721 Myelogram - procedural fee   42.08 2 
+S00724 Presacral air insufflation - procedural fee   37.30 2 
+S00727 Salpingogram - procedural fee   71.57 2 
+S00728 Orthodiagram - procedural fee   11.43 2 
+S00731 Duodenal biopsy - procedural fee   75.84 3 
+S00732 Voiding cysto-urethrogram - procedural fee   18.77 2 
+S00733 Venogram, intraosseous, or intravenous - procedural fee   56.73 2 
+- Surgical component (see Item 08614)   124.69 
+P10739 Endobronchial Ultrasound (EBUS)   250.00 6 
+S00743 Localizing of non-palpable breast lesion   98.23 2 
+S00811 Joint injection, aspiration or arthrogram, under radiological guidance   50.77 2 
+S00826 Biopsy of pancreas - percutaneous   80.17 2 
+S00857 Percutaneous trans-hepatic cholangiogram  (included in S00980)   108.10 2 
+S00868 Percutaneous gastrostomy/gastrojejunostomy - procedural fee   263.46 2 
+10735 Rectal endoscopy utilizing ultrasound (radial/linear)    151.02 
+10740 Upper GI endoscopy utilizing radial ultrasound   251.70 
+10741 Upper GI endoscopy utilizing linear ultrasound   251.70 
+S00738 Removal of biliary calculi by Burhenne technique   196.17 4 
+S00746 Reduction of intussusception using hydrostatic pressure, procedural fee   92.83 4 
+ST00921 Varicocele and/or uterine artery embolization  unilateral   385.90 3 
+ST00925 Varicocele and/or uterine artery embolization - bilateral   536.57 3 
+S00976 Radiological oesophageal dilatation   105.00 3 
+S00977 Antegrade pyelogram  (not billable in conjunction with 00978, 00979)   101.12 2 
+S00978 Percutaneous nephrostomy, procedural fee   286.71 2 
+S00980 Transhepatic biliary drainage procedure (includes 00857)   405.04 3 
+S00981 Therapeutic radiological embolization   405.04 3 
+S00982 Percutaneous transluminal angioplasty   386.09 2 
+S00983 Percutaneous abdominal abscess drainage by catheter insertion    263.70 2 
+ST00989 Extra-corporeal shock wave lithotripsy   130.09 4 
+ST00994 Extra-corporeal shock wave biliary lithotripsy - procedural only   159.10 4 
+10320 Insertion of permanent pleural drainage catheter  200.00 5 
+10321 Removal permanent pleural drainage catheter   67.39 2 
+10903 Percutaneous hemodialysis graft thrombolysis   558.87 2 
+10904 Percutaneous transcatheter arterial chemo-embolization (TACE)   561.39 3 
+10906 Image-guided percutaneous vertebroplasty  - first level   347.52  4 
+10907  - each additional level (to a maximum of 3)   80.20 4 
+10908 Percutaneous image-guided tumour ablation  first lesion   504.77 3 
+10911 Selective salpingography/fallopian tube recanalization (FTR)   374.25 2 
+10912 Transjugular liver/renal biopsy   374.25 2 
+10913 Cerebral arterial balloon occlusion tolerance test   760.56 5 
+10914 Percutaneous balloon angioplasty for cerebral vasospasm   977.53 9 
+10917  after 4 hours (extra to 10916)   279.62  
+10919 Intravascular stent placement  extra   123.34 
+10920 Intracorporeal stent placement  extra   123.34 
+S00739 Percutaneous lung or mediastinal biopsy - procedure fee   88.93 2 
+S00740 Liver biopsy - procedural fee   87.75 2 
+S00741 Splenic biopsy - procedural fee   87.75 2 
+S00742 Renal biopsy - procedural fee   88.93 2 
+S00744 Thyroid biopsy - procedural fee   59.52 2 
+S00745 Peripheral or subcutaneous lymph node biopsy - procedural fee   12.19 2 
+S00747 Prostate biopsy - procedural fee   19.38 2 
+ST00748  Bone biopsy under local/regional anesthetic    59.75 
+S00749 Parietal pleural, including thoracentesis - procedural fee   46.02 2 
+S00844 Biopsy of salivary gland, fine needle or core needle   52.98 3 
+SY00750 Lumbar puncture - in a patient 13 years of age and over   52.51 2 
+SY00570 Lumbar puncture in a patient 12 years of age and younger   78.77 2 
+S00751 Pericardial puncture - procedural fee   132.00 3 
+S00752 Cisternal puncture - procedural fee   36.58 2 
+S00753 Marrow aspiration - procedural fee   42.50 2 
+S00759 Paracentesis - (thoracic) or transtracheal aspiration - procedural fee   21.67 2 
+S00760 - (abdominal) - procedural fee   24.64 2 
+S00761 Cyst or bursa - procedural fee   13.92 2 
+S00762 Scratch test, per antigen   1.05 
+S00763 - children under 5 years of age, per antigen   2.27 
+S00764 Intracutaneous test, per test   2.10 
+S00767 Patch testing (extra) (annual maximum, 70 tests), per test   1.28 
+S00768 Photopatch test - per test   4.93 
+S00769 - annual maximum   49.33 
+S00771 Retinal examination under anesthesia - procedural fee   19.69 3 
+S00775 Hydrotubation   37.96 
+S00776 Fetal scalp sampling   37.96 
+S00782 Needle aspiration of Pouch of Douglas - procedural fee   29.98 2 
+S00783 Huhner's test - procedural fee   37.96 
+S00784 Cervix punch biopsy - procedural fee   16.10 2 
+S00785 Endometrial biopsy - procedural fee   37.96 2 
+S00787 Transabdominal amniocentesis    78.90 2 
+S00794  Chorionic villus sampling   108.69 2 
+S00807  Diagnostic hysteroscopy - not payable in addition to a D&C   105.90 2 
+S00808  Diagnostic hysteroscopy with biopsy(s), includes D&C   160.95 2 
+S00815  Laparoscopically directed biopsies and/or lysis of adhesions  extra   53.29 4 
+ST00819  Diagnostic vaginoscopy under GA   105.92 2 
+S00802 Urethrogram   38.77 2 
+S00792 - technical fee   11.94 2 
+S00793 - professional fee   5.97 
+S00799 Transurethral ureterorenoscopy to include C&P   155.07 2 
+S00800 Transurethral ureterorenoscopy  with x-ray control - C & P included   340.00 2 
+S00803 Loopogram   52.07 
+S00866 Dynamic cavernosometry and cavernosography   77.53 2 
+S00878 Cystometry, to include pelvic floor EMG   55.16 
+S00874 Urethral profilometry (water or gas)   19.38 
+S00876 Video uro-dynamics (full study), includes S00874, S00875 and S00878   151.19 
+S00774 Secretion pancreazymin stimulation test   86.88 
+S00780 Schirmer's Test (included in fee Item 02015)   12.89 
+SY00789 Peritoneal lavage   84.08 2 
+S00797 Oesophageal motility test   134.58 
+S00788 - technical fee   72.92 
+S00798 - professional fee   61.66 
+S00818 Oesophageal pH study for reflux, extra - professional fee   40.04 
+S00817 - technical fee   12.21 
+S00804 Bernstein acid perfusion tests   53.99 
+S00821 - technical fee   26.99 
+S00820  professional fee   26.99 
+S00809 Retrograde pancreatography   212.36 3 
+S00869 Manometry; anal - adult   61.66 2 
+S00801 Intra-arterial cannulation - with multiple aspirations - procedural fee   21.67 
+S00810 Right heart catheterization, by duly qualified specialist   162.26 4 
+S00812 Selective angiocardiogram, extra, by duly qualified specialist    54.45 4 
+S00813 Ergonovine provocative testing for coronary artery spasm    77.62 4 
+S00814 Dye dilution studies, extra, by duly qualified specialist   54.45 4 
+S00816 Hydrogen ion study   28.40 2 
+S00827 Retrograde left heart catheterization, extra, by duly qualified specialist   129.78 4 
+S00830 Trans-septal left heart catheterization, by duly qualified specialist   223.80 4 
+S00839 Direct intracoronary streptokinase thrombolysis   353.16 4 
+S00840 Percutaneous transluminal coronary angioplasty   369.39 4 
+S00842 - additional site or vessel   185.37 
+S00871 - intravascular, including both arterial and venous   54.45 
+S00880 - hepatic vein wedge pressure, by duly qualified specialist   62.71 
+S00881 - percutaneous splenic portal pressure   50.19 2 
+S00898 Balloon septostomy   321.71 7 
+S00890 - abdominal - procedural fee   110.71 2 
+S00892 - carotid percutaneous; unilateral   109.39 3 
+S00891 - carotid percutaneous; bilateral   164.49 3 
+S00893 - femoral or axillary   84.70 2 
+S00894 - cerebral, by dissection   184.42 3 
+S00853 Superior venacavogram, by indirect means   23.10 2 
+S00854 Inferior venacavogram   110.71 2 
+S00856 - others   57.17 2 
+S00859 Splenoportogram - by whatever means   98.48 2 
+S00896 Pulmonary arteriography   134.38 3 
+S00885 Digital angiography - peripheral injection   44.75 2 
+ST00919 Impedance plethysmography  - professional component   6.70 
+ST00920 Impedance plethysmography - technical component   33.55 
+00845 For first hour or fraction thereof   108.90 
+00846 After one hour, for each 15 minutes or fraction thereof   27.23 
+S00900 Schedule A - extensive examination (eight or more items)   118.36 
+S00901 Schedule B - limited examination (four to seven items)   79.16 
+S00902 Schedule C - short examination (one to three items)   39.45 
+S00923 Technical fee for electrodiagnostic testing   20.00 
+S00905 Daily measurements of nerve conduction thresholds in facial palsy   6.22 
+S00906 - maximum per course   43.31 
+S00915 Intra-carotid injection of sodium amytal, speech localization test   96.12 2 
+ST00947 - professional fee   175.12 
+ST00948 - technical fee   109.45 
+S00910 - professional fee   27.36 
+S00911 - technical fee   15.32 
+ST11915 Polysomnography, standard  professional fee   164.17 
+ST11916 Polysomnography, standard  technical fee   379.57 
+ST11917 Polysomnography, two-night  professional fee   246.26 
+ST11918 Polysomnography, two-night  technical fee   759.13 
+ST11919 Multiple Sleep Latency Test (MSLT) - professional fee   82.09 
+ST11920 Multiple Sleep Latency Test (MSLT) - technical fee   189.78 
+PS11925 Four channel home polysomnography  Professional fee   82.00 
+PS11926 Four channel home polysomnography  Technical fee   82.25 
+S00930 Peak expiratory flow rate   5.44 
+S00931 - professional fee   13.90 
+S00932 - technical fee   13.90 
+S00933 - without bronchodilators - professional fee   10.90 
+S00934 - without bronchodilators - technical fee   10.90 
+S00935 - before and after bronchodilators -  professional fee   12.52 
+S00936 - before and after bronchodilators -  technical fee   13.90 
+S00937 - without bronchodilators - professional fee   10.90 
+S00938 - without bronchodilators - technical fee   17.85 
+S00940 - before and after bronchodilators - professional fee   13.90 
+S00941 - before and after bronchodilators - technical fee   26.40 
+S00942 - at rest or exercise - professional fee   14.82 
+S00943 - technical fee   12.62 
+S00945 - professional fee (includes S00931, S00935 and S00942)   41.24 
+S00946 - technical fee (includes S00932, S00936 and S00943)   39.51 
+S00950 - professional fee   21.67 
+S00951 - technical fee   31.97 
+S00954 - professional fee   90.18 
+S00955 - technical fee   57.93 
+S00956 - professional fee   107.36 
+S00957 - technical fee   68.97 
+S00958 - professional fee   21.91 
+S00959 - technical fee   32.31 
+S00964 - professional fee   13.21 
+S00965 - technical fee   26.40 
+S00968 - professional fee   35.71 
+S00969 - technical fee   35.71 
+PSY11964 - professional fee   10.29 
+PSY11965 - technical fee   43.50 
+S00970 - professional fee   10.90 
+S00971 - technical fee   26.40 
+S00972 - professional fee   17.85 
+S00973 - technical fee   10.90 
+S00974 - professional fee   12.02 
+S00975 - technical fee   12.48 
+S11961 - technical fee   5.00 
+S11963 - technical fee   15.64  
+S00986 Somatosensory evoked response - upper extremity   36.36 
+S00987 - upper and lower extremity   62.87 
+S00988 Visual evoked response   70.50 
+S11200 Arthroscopy shoulder joint   293.02 2 
+11215 Arthrotomy shoulder joint or bursa   183.13 2 
+S11230 Needle biopsy under GA   183.13 2 
+S11232 Arthroscopy - biopsy, shoulder   238.06 2 
+11245 Biopsy, open   238.06 2 
+S11300 Arthroscopy elbow joint   263.26 2 
+S11302 Aspiration bursa, tendon sheath.   22.79 2 
+11315 Arthrotomy elbow joint   183.13 2 
+S11330 Needle biopsy under GA   183.13 2 
+S11332 Arthroscopy and biopsy   290.73 2 
+11345 Open - biopsy   238.06 2 
+S11400 Arthroscopy wrist joint   282.08 2 
+S11402 Aspiration bursa, synovial sheath,    22.79 2 
+11415 Arthrotomy wrist joint - isolated procedure   183.13 2 
+S11430 Needle biopsy, under GA   183.13 2 
+S11432 Arthroscopy and biopsy, wrist /hand joint(s)   183.13 2 
+11445 Open biopsy, hand or wrist   238.06 2 
+S11500 Arthroscopy hip joint   508.19 3 
+S11501 Aspiration hip joint   22.79 2 
+S11502 Aspiration bursa, tendon sheath   11.40 2 
+11515 Arthrotomy hip joint   293.02 3 
+S11530 Needle biopsy, under GA   183.13 2 
+S11532 Arthroscopy and biopsy, hip   508.19 3 
+11545 Arthrotomy and biopsy, hip   238.06 3 
+11546 Biopsy open, soft tissue or bone   238.06 2 
+S11600 Arthroscopy knee joint   210.59 2 
+S11602 Aspiration bursa, tendon sheath or other peri-articular structures   22.79 2 
+11615 Arthrotomy knee joint   238.06 3 
+S11630 Needle biopsy, under GA   183.13 2 
+S11632 Arthroscopy - biopsy   210.59 2 
+11645 Biopsy, open   238.06 2 
+S11700 Arthroscopy ankle joint / subtalar joint   183.13 2 
+S11702 Aspiration bursa, tendon sheath.   22.79 2 
+11715 Ankle joint,    183.13 2 
+11716 Subtalar joint    183.13 2 
+11717 Midtarsal joint    183.13 2 
+11718 Tarsal-metatarsal, metatarsal-phalangeal, interphalangeal joint.    183.13 2 
+S11730 Needle biopsy, under GA   183.13 2 
+11745 Open biopsy, under GA   238.06 2 
+S11830 Needle biopsy - soft tissue/bone - thoracic spine, under GA   210.59 2 
+S11831 Needle biopsy - soft tissue/bone - lumbar spine, under GA   183.13 2 
+11845 Biopsy, with GA   238.06 3 
