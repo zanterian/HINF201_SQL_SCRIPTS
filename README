@@ -5,6 +5,12 @@ Most of the stuff here contains generation scripts to have a large set of
 randomly generated dummy data. This is so that the project application can look
 nice when it is simulated in the class use.
 
+NOTICE:
+The work on here is not architecture independent. Will most likely work on any 
+Linux system. This was my environment:
+ - perl v5.14.2)
+ - gnu coreutils v8.15
+
 DESCRIPTION:
 This project is meeting the needs of a small fictional BC-based Canadian general
 practice clinic that consists of a small set of practicing physicians. 
