@@ -8,7 +8,7 @@ nice when it is simulated in the class use.
 NOTICE:
 The work on here is not architecture independent. Will most likely work on any 
 Linux system. This was my environment:
- - perl v5.14.2)
+ - perl v5.14.2
  - gnu coreutils v8.15
 
 DESCRIPTION:
