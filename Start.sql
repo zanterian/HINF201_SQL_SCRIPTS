@@ -1,4 +1,4 @@
----------------------- TIME -------------------------------
+----------------------- TIME -------------------------------
 CREATE TABLE Time(
 	t				DATE
 	
@@ -9,7 +9,8 @@ CREATE TABLE Time(
 ------------------- DOCTOR --------------------------------
 CREATE TABLE Doctor(
 	d_id			CHAR(4)
-,	d_name			VARCHAR2(100) NOT NULL
+,	d_f_name		VARCHAR2(100) NOT NULL
+,	d_l_name		VARCHAR2(100) NOT NULL
 ,	d_employed_date	DATE
 	
 ,	CONSTRAINT pk_d_id 
