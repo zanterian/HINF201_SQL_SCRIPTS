@@ -8,9 +8,6 @@
 	This is a simple collection of scripts that can be used to create SQL code which
 	inserts all the values into a table.
 
-	The mySQL one complies to the table 'code' found in the openEMR code base and
-	the oracle one was simply a test to make a single block of insertion code.
-
 -- EXAMPLES --
 file: icdcodestextblocb.txt
 
