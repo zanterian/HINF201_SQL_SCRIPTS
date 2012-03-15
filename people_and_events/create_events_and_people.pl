@@ -158,7 +158,7 @@ sub gen_encounter_date{
 		$day = "0" . "$day";
 	}
 	my $time = &gen_time;
-	return "to_date('$year/$month/$day:$time','yyyy/mm/dd:hh:mm')";
+	return "to_date('$year/$month/$day:$time','yyyy/mm/dd:hh24:mm')";
 }
 # Add patient visits here
 sub create_patient_visits{
