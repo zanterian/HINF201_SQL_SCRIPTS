@@ -138,6 +138,9 @@ sub create_encounters{
 sub gen_time{
 	my $hour = int(rand(9)) + 9;
 	my $minute = int(rand(59));
+	if($minute < 10){
+		$minute = '0'."$minute";
+	}
 	return "$hour".':'."$minute";
 }
 # encounter string: to_date('','yyyy/mm/dd|hh:mm')
