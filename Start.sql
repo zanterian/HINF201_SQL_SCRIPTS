@@ -82,7 +82,8 @@ CREATE TABLE Patient_Visit(
 ,	pv_d_id			CHAR(4) NOT NULL
 ,	pv_t			DATE NOT NULL
 ,	pv_icd_code		CHAR(50)
-,	pv_image		BLOB	
+-- Temporarily disabling the image for now
+-- ,	pv_image		BLOB	
 ,	pv_description	VARCHAR2(2000)
 	
 ,	CONSTRAINT pk_pv_id
