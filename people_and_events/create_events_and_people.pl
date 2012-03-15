@@ -32,6 +32,9 @@ sub gen_last_name{
 sub gen_employed_date{
 	my $year = int(rand(40)) + $CLINIC_OPENING_YEAR;
 	my $month = int(rand(11)) + 1;
+	if($month < 10){
+		$month = "0"."$month";
+	}
 	my $day = int(rand(27)) + 1;
 	return "to_date('$day/$month/$year', 'dd/mm/yyyy')";
 }
@@ -143,13 +146,19 @@ sub gen_time{
 	}
 	return "$hour".':'."$minute";
 }
-# encounter string: to_date('','yyyy/mm/dd|hh:mm')
+# encounter string: to_date('','yyyy/mm/dd:hh24:mm')
 sub gen_encounter_date{
 	my $year = int(rand(40)) + $CLINIC_OPENING_YEAR;
 	my $month = int(rand(11)) + 1;
+	if($month < 10){
+		$month = "0"."$month";
+	}
 	my $day = int(rand(27)) + 1;
+	if($day < 10){
+		$day = "0" . "$day";
+	}
 	my $time = &gen_time;
-	return "to_date('$year/$month/$day|$time','yyyy/mm/dd|hh:mm')";
+	return "to_date('$year/$month/$day:$time','yyyy/mm/dd:hh:mm')";
 }
 # Add patient visits here
 sub create_patient_visits{
