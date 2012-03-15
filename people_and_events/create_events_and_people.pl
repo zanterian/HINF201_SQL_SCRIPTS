@@ -134,13 +134,22 @@ sub create_encounters{
 	return @e_ids;
 }
 #####################################################################
+# will return the time to the gen_encounter_date
+sub gen_time{
+	my $hour = int(rand(9)) + 9;
+	my $minute = int(rand(59));
+	return "$hour".':'."$minute";
+}
+sub gen_encounter_date{
+	
+}
 # Add patient visits here
 sub create_patient_visits{
 	my @init;
 	my ($d_ids,$p_ids,$e_ids) = @_;
 	my $SQL_String = 'INSERT INTO Patient_Visit (pv_id, pv_e_id, pv_p_id, pv_d_id, pv_t) VALUES(';
 	for($i = 0; $i<$AMOUNT_OF_VISITS;$i++){
-		my $t = &gen_employed_date;
+		my $t = &gen_encounter_date;
 		my $e_id = $e_ids->[int(rand(@$e_ids))];
 		my $p_id = $p_ids->[int(rand(@$p_ids))];
 		my $d_id = $d_ids->[int(rand(@$d_ids))];
