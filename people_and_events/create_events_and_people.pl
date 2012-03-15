@@ -140,8 +140,13 @@ sub gen_time{
 	my $minute = int(rand(59));
 	return "$hour".':'."$minute";
 }
+# encounter string: to_date('','yyyy/mm/dd|hh:mm')
 sub gen_encounter_date{
-	
+	my $year = int(rand(40)) + $CLINIC_OPENING_YEAR;
+	my $month = int(rand(11)) + 1;
+	my $day = int(rand(27)) + 1;
+	my $time = &gen_time;
+	return "to_date('$year/$month/$day|$time','yyyy/mm/dd|hh:mm')";
 }
 # Add patient visits here
 sub create_patient_visits{
