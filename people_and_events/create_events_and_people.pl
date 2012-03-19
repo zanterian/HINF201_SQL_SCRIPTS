@@ -45,15 +45,16 @@ sub gen_date{
 	return "to_date('$day/$month/$year','dd/mm/yyyy')";
 }
 sub create_doctors{
-	my @init, $i, $SQL_string, $d_id, $d_name, $d_employed_date,@d_ids;
-	$SQL_string = 'INSERT INTO Doctor (d_id, d_name, d_employed_date) VALUES ('."'";
+	my @init, $i, $SQL_string, $d_id, $d_first_name, $d_last_name, $d_employed_date,@d_ids;
+	$SQL_string = 'INSERT INTO Doctor (d_id, d_first_name, d_last_name, d_employed_date) VALUES ('."'";
 	
 	for($i=0;$i<$AMOUNT_OF_DOCTORS;$i++){	
 		$d_id = &gen_d_id;
 		push @d_ids, $d_id;
-		$d_name = &gen_first_name;
+		$d_first_name = &gen_first_name;
+		$d_last_name = &gen_last_name;
 		$d_employed_date = &gen_employed_date;
-		push (@init, $SQL_string.$d_id."','".$d_name."',".$d_employed_date.");");
+		push (@init, $SQL_string.$d_id."','".$d_first_name."',"."',".$d_last_name."',".$d_employed_date.");");
 	}
 	
 	# Print out the Doctors
