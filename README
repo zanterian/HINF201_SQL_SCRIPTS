@@ -31,10 +31,10 @@ It is recommended to run the scripts in the order that they are listed in the co
 Aside from the one that cleans up the database of course.
 
 CONTENTS
-Start.sql                 - Initializes the database and uses procedure
-Fill_Database.sql         - Populates the database with all of the people
-ICD10CAScript{0,1,2}      - Inserts a large portion of ICD-10-CA by CIHI
-Cleanup.sql               - Drops all tables in the order of dependencies
+Start.sql            - Initializes the database and uses procedure
+Fill_Database.sql    - Populates the database with all of the people
+ICD10CAScript{0,1,2} - Inserts a large portion of ICD-10-CA by CIHI
+Cleanup.sql          - Drops all tables in the order of dependencies
 
 UTILITY DIRECTORIES
 ./icd10CA/             - Contains scripts and text for the ICD-10-CA Table
