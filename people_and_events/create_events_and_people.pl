@@ -54,7 +54,7 @@ sub create_doctors{
 		$d_first_name = &gen_first_name;
 		$d_last_name = &gen_last_name;
 		$d_employed_date = &gen_employed_date;
-		push (@init, $SQL_string.$d_id."','".$d_first_name."',"."',".$d_last_name."',".$d_employed_date.");");
+		push (@init, $SQL_string.$d_id."','".$d_first_name."',".",'".$d_last_name."',".$d_employed_date.");");
 	}
 	
 	# Print out the Doctors
