@@ -40,7 +40,3 @@ UTILITY DIRECTORIES
 ./icd10CA/             - Contains scripts and text for the ICD-10-CA Table
 ./encounters/          - Contains scripts for encounter extraction
 ./people_and_events/   - Creates Patients, Doctors, Events, and Visits
-
-
-IN PROGRESS:
-Adding times to patient visits
