@@ -1,4 +1,4 @@
------------------------ TIME -------------------------------
+--------------------- TIME --------------------------------
 CREATE TABLE Time(
 	t				DATE
 	
@@ -110,7 +110,13 @@ CREATE TABLE Patient_Visit(
 		REFERENCES ICD_10_CA(code)
 		ON DELETE SET NULL
 );
+------------------- RULES ---------------------------------
 /*************************************/
+/* 			Sequences                */
+/*************************************/
+CREATE SEQUENCE Patient_Visit_Sequence
+START WITH 1
+INCREMENT BY 1;
 /* Functions Triggers and Procedures */
 /*************************************/
 /* Procedure to be used to add a time to the table Time - this makes it easier*/
@@ -192,13 +198,17 @@ DECLARE
 	date_check NUMBER;
 	appointment_check NUMBER;
 BEGIN
+	-- Appointment Sanity Checking
 	appointment_check := Check_If_Visit_Possible (:new.pv_t,:new.pv_d_id);
 	IF appointment_check = 0 THEN 
 		raise_application_error(-20001,'Appointment Cannot Be Before Doctor Employed Date');
 	END IF;
+	-- Inserting Primary Key To Parent Time Table
 	date_check := Check_Time_Table(:new.pv_t);
 	IF date_check = 0 THEN
 		Insert_Into_Time(:new.pv_t);
 	END IF;
+	-- Auto Increment Primary Key Field
+	SELECT Patient_Visit_Sequence.nextval INTO :NEW.pv_id FROM DUAL;
 END;
 /
